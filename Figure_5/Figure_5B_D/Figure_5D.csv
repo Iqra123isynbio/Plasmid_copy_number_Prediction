@@ -1,0 +1,28 @@
+,Total Count,Count,Count,Count,Count,Proportion (%),Proportion (%),Proportion (%),Proportion (%)
+,,<5,5_10,10_30,>30,<5,5_10,10_30,>30
+ecosystem,,,,,,,,,
+Host-associated;Mammals: Human;Digestive system;Biliary tract;Bile ducts: Bile,3,0,0,2,1,0,0,66.66666667,33.33333333
+Host-associated;Mammals: Human;Digestive system;Large intestine;Colon mucosa,16,0,2,13,1,0,12.5,81.25,6.25
+Host-associated;Mammals: Human;Digestive system;Large intestine;Fecal,8208,657,1631,5367,553,8.004385965,19.8708577,65.3874269,6.737329435
+Host-associated;Mammals: Human;Digestive system;Oral cavity,23,0,4,15,4,0,17.39130435,65.2173913,17.39130435
+Host-associated;Mammals: Human;Digestive system;Oral cavity;Attached/Keratinized gingiva,20,5,3,12,0,25,15,60,0
+Host-associated;Mammals: Human;Digestive system;Oral cavity;Buccal mucosa,231,20,45,166,0,8.658008658,19.48051948,71.86147186,0
+Host-associated;Mammals: Human;Digestive system;Oral cavity;Dental plaque,1,0,0,1,0,0,0,100,0
+Host-associated;Mammals: Human;Digestive system;Oral cavity;Hard palate,5,0,0,5,0,0,0,100,0
+Host-associated;Mammals: Human;Digestive system;Oral cavity;Saliva,69,4,5,54,6,5.797101449,7.246376812,78.26086957,8.695652174
+Host-associated;Mammals: Human;Digestive system;Oral cavity;Subgingival plaque,129,36,19,69,5,27.90697674,14.72868217,53.48837209,3.875968992
+Host-associated;Mammals: Human;Digestive system;Oral cavity;Supragingival plaque,465,114,80,246,25,24.51612903,17.20430108,52.90322581,5.376344086
+"Host-associated;Mammals: Human;Digestive system;Oral cavity;Tongue dorsum, tongue dorsum",1001,205,188,585,23,20.47952048,18.78121878,58.44155844,2.297702298
+Host-associated;Mammals: Human;Digestive system;Pharynx/Throat;Oropharynx,90,13,15,59,3,14.44444444,16.66666667,65.55555556,3.333333333
+Host-associated;Mammals: Human;Integumentary system;Skin,213,36,24,127,26,16.90140845,11.26760563,59.62441315,12.20657277
+Host-associated;Mammals: Human;Integumentary system;Skin;Axilla/Armpit,15,1,2,12,0,6.666666667,13.33333333,80,0
+Host-associated;Mammals: Human;Integumentary system;Skin;Retroauricular crease,20,1,2,13,4,5,10,65,20
+Host-associated;Mammals: Human;Integumentary system;Skin;Skin surface,9,0,2,6,1,0,22.22222222,66.66666667,11.11111111
+Host-associated;Mammals: Human;Lymphatic system;Tonsils;Palatine/Faucial,32,15,5,12,0,46.875,15.625,37.5,0
+Host-associated;Mammals: Human;Remains;Skeletonized remains;Dental calculus,3,0,0,3,0,0,0,100,0
+"Host-associated;Mammals: Human;Reproductive system;Vagina;Posterior fornix, posterior fornix",7,2,2,3,0,28.57142857,28.57142857,42.85714286,0
+Host-associated;Mammals: Human;Respiratory system;Lung,1,0,0,1,0,0,0,100,0
+Host-associated;Mammals: Human;Respiratory system;Nasal cavity;Anterior nares,24,6,7,11,0,25,29.16666667,45.83333333,0
+Host-associated;Mammals: Human;Respiratory system;Pharynx/Throat;Nasopharynx,4,0,1,3,0,0,25,75,0
+Host-associated;Mammals: Human;Respiratory system;Sputum/Phlegm,1,0,1,0,0,0,100,0,0
+Host-associated;Mammals: Human;Respiratory system;Trachea;Mucus,4,0,2,2,0,0,50,50,0
