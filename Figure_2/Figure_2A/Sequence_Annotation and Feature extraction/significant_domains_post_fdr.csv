@@ -1,0 +1,1289 @@
+Target,Correlation,p_value,q_value,Description
+UPF0137,0.239294166,1.8e-146,6.91e-143,Uncharacterised protein family (UPF0137)
+Pgp3_N,0.239294166,1.8e-146,6.91e-143,"Immunodominant antigen Pgp3, N-terminal domain"
+Chlam_vir,0.239294166,1.8e-146,6.91e-143,Pgp3 C-terminal domain
+AAA_31,-0.224118739,2.9e-128,7.33e-125,AAA domain
+CbiA,-0.224084502,3.1799999999999997e-128,7.33e-125,CobQ/CobB/MinD/ParA nucleotide binding domain
+HTH_23,-0.1927019,1.06e-94,2.04e-91,Homeodomain-like domain
+MipZ,-0.187734661,6.8e-90,1.12e-86,ATPase MipZ
+rve,-0.18440439,9.56e-87,1.38e-83,Integrase core domain
+Phage_integrase,-0.175615446,1e-78,1.28e-75,Phage integrase family
+ParA,-0.174516164,9.44e-78,1.0899999999999999e-74,NUBPL iron-transfer P-loop NTPase
+ParBc,-0.171629103,3.18e-75,3.33e-72,ParB/Sulfiredoxin domain
+AAA_16,-0.167965211,4.42e-72,4.2499999999999997e-69,AAA ATPase domain
+AAA_22,-0.163619913,1.91e-68,1.69e-65,AAA domain
+Resolvase,-0.161230384,1.7300000000000002e-66,1.42e-63,"Resolvase, N terminal domain"
+TraG-D_C,-0.151804813,4.6000000000000005e-59,3.53e-56,TraM recognition site of TraD and TraG
+ArsA_ATPase,-0.151583822,6.77e-59,4.880000000000001e-56,Anion-transporting ATPase
+HTH_28,-0.149825981,1.45e-57,9.85e-55,Helix-turn-helix domain
+HTH_Tnp_1,-0.14971391,1.76e-57,1.1299999999999998e-54,Transposase
+HTH_29,-0.149582064,2.2200000000000002e-57,1.3399999999999998e-54,Winged helix-turn helix
+rve_3,-0.149479438,2.6500000000000003e-57,1.53e-54,Integrase core domain
+TrwB_AAD_bind,-0.148108336,2.8000000000000004e-56,1.54e-53,Type IV secretion-system coupling protein DNA-binding domain
+SLT,-0.147813432,4.64e-56,2.43e-53,Transglycosylase SLT domain
+HTH_7,-0.14763603,6.2800000000000005e-56,3.15e-53,Helix-turn-helix domain of resolvase
+ABC_tran,-0.147410478,9.230000000000001e-56,4.43e-53,ABC transporter
+AAA_30,-0.146173271,7.529999999999999e-55,3.47e-52,AAA domain
+DDE_Tnp_1,-0.139943505,2.22e-50,9.859999999999999e-48,Transposase DDE domain
+DDE_Tnp_IS66,-0.138176417,3.79e-49,1.6199999999999999e-46,Transposase IS66 family
+AAA_19,-0.137369419,1.3599999999999999e-48,5.62e-46,AAA domain
+HTH_31,-0.135827943,1.5500000000000001e-47,6.16e-45,Helix-turn-helix domain
+SMC_N,-0.133903572,3.08e-46,1.1900000000000002e-43,RecF/RecN/SMC N terminal domain
+HTH_21,-0.133064404,1.12e-45,4.17e-43,HTH-like domain
+nSTAND3,-0.132102734,4.8699999999999996e-45,1.76e-42,Novel STAND NTPase 3
+T4SS-DNA_transf,-0.130679112,4.2e-44,1.47e-41,Type IV secretory system Conjugative DNA transfer
+IMS_C,-0.127783333,3.1299999999999996e-42,1.06e-39,impB/mucB/samB family C-terminal domain
+rve_2,-0.127228541,7.059999999999999e-42,2.33e-39,Integrase core domain
+Rep3_N,-0.127162544,7.78e-42,2.4899999999999998e-39,"Initiator Replication protein, WH1"
+P-loop_TraG,-0.126769883,1.38e-41,4.3e-39,TraG P-loop domain
+DDE_Tnp_IS240,-0.126723837,1.48e-41,4.48e-39,DDE domain
+TrbI,-0.126434049,2.25e-41,6.66e-39,Bacterial conjugation TrbI-like protein
+AAA_21,-0.125809128,5.58e-41,1.6099999999999998e-38,"AAA domain, putative AbiEii toxin, Type IV TA system"
+AAA,-0.124717233,2.6899999999999997e-40,7.569999999999999e-38,ATPase family associated with various cellular activities (AAA)
+IMS,-0.124624114,3.08e-40,8.449999999999999e-38,impB/mucB/samB family
+AAA_29,-0.123784438,1.02e-39,2.74e-37,P-loop containing region of AAA domain
+Thioredoxin_2,-0.122366733,7.6e-39,1.9900000000000002e-36,Thioredoxin-like domain
+DDE_Tnp_Tn3,-0.121079511,4.6099999999999997e-38,1.18e-35,Tn3 transposase DDE domain
+Rop,0.120021216,2e-37,5.01e-35,Rop protein
+MFS_1,-0.117036362,1.17e-35,2.86e-33,Major Facilitator Superfamily
+SSB,-0.116187868,3.64e-35,8.74e-33,Single-strand binding protein family
+HTH_24,-0.116104686,4.07e-35,9.570000000000001e-33,Winged helix-turn-helix DNA-binding
+DUF87,-0.115636739,7.580000000000001e-35,1.7500000000000002e-32,"Helicase HerA, central domain"
+DUF4113,-0.115129096,1.49e-34,3.3600000000000004e-32,Domain of unknown function (DUF4113)
+HTH_32,-0.114108343,5.7e-34,1.2600000000000002e-31,Homeodomain-like domain
+Peptidase_S24,-0.114018604,6.41e-34,1.4000000000000002e-31,Peptidase S24-like
+HTH_26,-0.11307789,2.19e-33,4.67e-31,Cro/C1-type HTH DNA-binding domain
+IMS_HHH,-0.111920984,9.76e-33,2.0499999999999998e-30,IMS family HHH motif
+Acetyltransf_1,-0.111667444,1.3500000000000002e-32,2.78e-30,Acetyltransferase (GNAT) family
+DUF4158,-0.110297401,7.75e-32,1.57e-29,Domain of unknown function (DUF4158)
+HTH_3,-0.10799997,1.3799999999999999e-30,2.74e-28,Helix-turn-helix
+IncFII_repA,-0.107539121,2.44e-30,4.77e-28,IncFII RepA protein family
+MerR,-0.106965729,4.9399999999999994e-30,9.5e-28,MerR family regulatory protein
+Sigma70_r4_2,-0.106256941,1.1800000000000001e-29,2.2300000000000003e-27,"Sigma-70, region 4"
+Acetyltransf_7,-0.106118174,1.39e-29,2.5900000000000003e-27,Acetyltransferase (GNAT) domain
+HTH_19,-0.10604691,1.52e-29,2.78e-27,Helix-turn-helix domain
+IstB_IS21,-0.105997918,1.61e-29,2.9100000000000003e-27,IstB-like ATP binding protein
+Antirestrict,-0.105922677,1.7700000000000001e-29,3.14e-27,Antirestriction protein
+ResIII,-0.10574693,2.1900000000000002e-29,3.83e-27,"Type III restriction enzyme, res subunit"
+AAA_23,-0.105386431,3.39e-29,5.830000000000001e-27,AAA domain
+DEDD_Tnp_IS110,-0.105047481,5.1e-29,8.66e-27,Transposase
+T2SSE,-0.104413825,1.09e-28,1.83e-26,Type II/IV secretion system protein
+Transposase_20,-0.104132085,1.53e-28,2.52e-26,Transposase IS116/IS110/IS902 family
+TraF,-0.103839152,2.17e-28,3.5300000000000003e-26,F plasmid transfer operon protein
+HTH_20,-0.103164254,4.85e-28,7.76e-26,Helix-turn-helix domain
+HTH_38,-0.102513278,1.0400000000000002e-27,1.65e-25,Helix-turn-helix domain
+Acetyltransf_10,-0.102350475,1.27e-27,1.97e-25,Acetyltransferase (GNAT) domain
+N6_N4_Mtase,-0.101383756,3.92e-27,6.0199999999999995e-25,DNA methylase
+Methyltransf_25,-0.099899947,2.1700000000000002e-26,3.3e-24,Methyltransferase domain
+TetR_N,-0.099767191,2.53e-26,3.79e-24,"Bacterial regulatory proteins, tetR family"
+AAA_5,-0.09975511,2.5700000000000002e-26,3.7999999999999995e-24,AAA domain (dynein-related subfamily)
+Phage_int_SAM_1,-0.099116262,5.32e-26,7.769999999999999e-24,"Phage integrase, N-terminal SAM-like domain"
+HTH_5,-0.098742609,8.13e-26,1.1699999999999998e-23,"Bacterial regulatory protein, arsR family"
+CBP_BcsQ,-0.09873459,8.210000000000001e-26,1.1699999999999998e-23,Cellulose biosynthesis protein BcsQ
+MTS,-0.098123395,1.64e-25,2.2999999999999998e-23,Methyltransferase small domain
+PhoH,-0.097887638,2.13e-25,2.97e-23,PhoH-like protein
+Pyr_redox_2,-0.097132465,4.97e-25,6.819999999999999e-23,Pyridine nucleotide-disulphide oxidoreductase
+TraI_hel_assoc_N,-0.096651287,8.49e-25,1.15e-22,"TraI helicase-associated ssDNA bd, N-terminal"
+TraE,-0.096592697,9.06e-25,1.21e-22,TraE protein
+Rep3_C,-0.095860969,2.0299999999999998e-24,2.69e-22,"Initiator Rep protein, WH2"
+PLDc_2,-0.095249433,3.97e-24,5.21e-22,PLD-like domain
+TraL,-0.095021671,5.09e-24,6.6e-22,TraL protein
+TraG_N,-0.094885605,5.91e-24,7.57e-22,"TraG-like protein, N-terminal region"
+HTH_IclR,-0.094736416,6.949999999999999e-24,8.81e-22,IclR helix-turn-helix domain
+HATPase_c,-0.094553282,8.48e-24,1.0600000000000001e-21,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+Response_reg,-0.094473747,9.24e-24,1.1500000000000002e-21,Response regulator receiver domain
+PsiA,-0.094417359,9.83e-24,1.21e-21,PsiA protein
+TraH,-0.094371182,1.03e-23,1.2500000000000001e-21,Conjugative relaxosome accessory transposon protein
+AAA_10,-0.094180986,1.2699999999999999e-23,1.52e-21,AAA-like domain
+TraC_F_IV,-0.094173427,1.2799999999999999e-23,1.52e-21,TraC protein
+TraK_C,-0.09331973,3.21e-23,3.77e-21,TraK C-terminal domain
+TraV,-0.093235293,3.5099999999999994e-23,4.09e-21,Type IV conjugative transfer system lipoprotein (TraV)
+DDE_Tnp_IS1,-0.093193504,3.6699999999999995e-23,4.230000000000001e-21,IS1 transposase
+TraU,-0.092966139,4.6799999999999994e-23,5.34e-21,TraU protein
+ProQ,-0.092864253,5.2199999999999995e-23,5.9e-21,ProQ/FINO family
+TrwC,-0.092228277,1.02e-22,1.15e-20,TrwC relaxase
+HlyD_3,-0.092050032,1.24e-22,1.37e-20,HlyD family secretion protein
+TrbC_Ftype,-0.092013373,1.29e-22,1.41e-20,Type-F conjugative transfer system pilin assembly protein
+DEAD,-0.091938529,1.39e-22,1.51e-20,DEAD/DEAH box helicase
+DUF5934,-0.091867094,1.5e-22,1.62e-20,Family of unknown function (DUF5934)
+Rep_1,0.091781245,1.64e-22,1.75e-20,Replication protein
+F_T4SS_TraN,-0.091667179,1.85e-22,1.96e-20,"F-type Type IV secretion system, TraN"
+Viral_helicase1,-0.091238234,2.91e-22,3.05e-20,Viral (Superfamily 1) RNA helicase
+RsgA_GTPase,-0.091132738,3.25e-22,3.37e-20,RsgA GTPase
+HlyD_D23,-0.091081379,3.42e-22,3.52e-20,Barrel-sandwich domain of CusB or HlyD membrane-fusion
+MreB-like_C,-0.09106667,3.48e-22,3.52e-20,"Archaeal actin homologue MreB-like, C-terminal"
+Phage_int_SAM_4,-0.091064922,3.48e-22,3.52e-20,"Phage integrase, N-terminal SAM-like domain"
+MazE_antitoxin,-0.091026334,3.6300000000000003e-22,3.64e-20,"Antidote-toxin recognition MazE, bacterial antitoxin"
+DAO,-0.090873743,4.25e-22,4.23e-20,FAD dependent oxidoreductase
+PsiB,-0.090820562,4.5e-22,4.43e-20,Plasmid SOS inhibition protein (PsiB)
+HTH_1,-0.090759878,4.79e-22,4.68e-20,"Bacterial regulatory helix-turn-helix protein, lysR family"
+SNase,-0.090682925,5.19e-22,5.03e-20,Staphylococcal nuclease homologue
+TnpB_IS66,-0.090523829,6.12e-22,5.88e-20,IS66 Orf2 like protein
+ParE_toxin,-0.090201309,8.55e-22,8.15e-20,"ParE toxin of type II toxin-antitoxin system, parDE"
+DUF1380,-0.089871916,1.2000000000000002e-21,1.14e-19,Protein of unknown function (DUF1380)
+Pyr_redox_3,-0.08980349,1.29e-21,1.21e-19,Pyridine nucleotide-disulphide oxidoreductase
+DUF905,-0.089789439,1.3100000000000002e-21,1.22e-19,Bacterial protein of unknown function (DUF905)
+AAA_14,-0.089383055,1.9900000000000003e-21,1.83e-19,AAA domain
+RepB-RCR_reg,-0.088948952,3.1000000000000002e-21,2.84e-19,Replication regulatory protein RepB
+HisKA,-0.088916095,3.2100000000000004e-21,2.91e-19,His Kinase A (phospho-acceptor) domain
+Hydrolase_4,-0.087770344,1.02e-20,9.23e-19,"Serine aminopeptidase, S33"
+DDE_Tnp_IS66_C,-0.087723846,1.07e-20,9.6e-19,IS66 C-terminal element
+Hydrolase,-0.087499704,1.35e-20,1.19e-18,haloacid dehalogenase-like hydrolase
+TraX,-0.087180114,1.85e-20,1.63e-18,TraX protein
+TraI_C,-0.086794842,2.72e-20,2.38e-18,"DNA helicase TraI, C-terminal"
+DUF772,-0.086724143,2.92e-20,2.53e-18,Transposase domain (DUF772)
+PIN,-0.086174052,5.04e-20,4.34e-18,PIN domain
+Pyr_redox,-0.08593814,6.37e-20,5.44e-18,Pyridine nucleotide-disulphide oxidoreductase
+HI0933_like,-0.085592329,8.95e-20,7.59e-18,HI0933-like protein Rossmann domain
+N6_Mtase,-0.08544037,1.04e-19,8.75e-18,N-6 DNA Methylase
+RVT_1,-0.085309446,1.18e-19,9.87e-18,Reverse transcriptase (RNA-dependent DNA polymerase)
+Trans_reg_C,-0.085139558,1.4e-19,1.15e-17,"Transcriptional regulatory protein, C terminal"
+GerE,-0.085136863,1.4e-19,1.15e-17,"Bacterial regulatory proteins, luxR family"
+MerR_1,-0.084930565,1.71e-19,1.4e-17,MerR HTH family regulatory protein
+Beta-lactamase,-0.08488561,1.79e-19,1.45e-17,Beta-lactamase
+AAA_18,-0.084656211,2.23e-19,1.8e-17,AAA domain
+LZ_Tnp_IS66,-0.084533157,2.52e-19,2.02e-17,Transposase C of IS166 homeodomain
+zf-IS66,-0.084517706,2.56e-19,2.03e-17,zinc-finger binding domain of transposase IS66
+ParM_N,-0.08442734,2.79e-19,2.2e-17,"Plasmid segregation protein ParM, C-terminal"
+DSBA,-0.084399525,2.87e-19,2.25e-17,DSBA-like thioredoxin domain
+HTH_Tnp_ISL3,-0.083960772,4.38e-19,3.41e-17,Helix-turn-helix domain of transposase family ISL3
+Acetyltransf_3,-0.083840081,4.92e-19,3.81e-17,Acetyltransferase (GNAT) domain
+Abhydrolase_6,-0.083629259,6.03e-19,4.63e-17,Alpha/beta hydrolase family
+AAA_15,-0.083621408,6.07e-19,4.64e-17,AAA ATPase domain
+Abhydrolase_1,-0.083173778,9.32e-19,7.08e-17,alpha/beta hydrolase fold
+Fer4_NifH,-0.082983169,1.12e-18,8.43e-17,"Fe-4S iron sulfur cluster binding proteins, NifH/frxC family"
+TraI_2B,-0.082753561,1.39e-18,1.04e-16,DNA relaxase TraI 2B/2B-like domain
+LysR_substrate,-0.082746698,1.4e-18,1.04e-16,LysR substrate binding domain
+Sigma70_r4,-0.082703197,1.46e-18,1.08e-16,"Sigma-70, region 4"
+TraK_N,-0.082679338,1.49e-18,1.1e-16,TraK N-terminal domain
+StbA_N,-0.082282268,2.18e-18,1.59e-16,"Plasmid segregation protein ParM, N-terminal"
+HHA,-0.081599312,4.14e-18,3e-16,Haemolysin expression modulating protein
+Sugar_tr,-0.080956771,7.54e-18,5.43e-16,Sugar (and other) transporter
+FAD_binding_2,-0.080854243,8.29e-18,5.94e-16,FAD binding domain
+TrbC,-0.080618774,1.03e-17,7.34e-16,TrbC/VIRB2 pilin
+ssDNA_TraI_N,-0.080363497,1.31e-17,9.24e-16,single-stranded DNA binding TraI N-terminal subdomain
+VirC1,-0.080156144,1.58e-17,1.11e-15,VirC1 protein
+TraA,-0.07998243,1.86e-17,1.3e-15,TraA
+AAA_33,-0.079455282,3.01e-17,2.08e-15,AAA domain
+FAD_oxidored,-0.079451459,3.02e-17,2.08e-15,FAD dependent oxidoreductase
+HTH_18,-0.079339828,3.34e-17,2.28e-15,Helix-turn-helix domain
+Tra_M,-0.079339358,3.34e-17,2.28e-15,"TraM protein, DNA-binding"
+adh_short,-0.079277252,3.54e-17,2.4e-15,short chain dehydrogenase
+HTH_AraC,-0.079258914,3.6e-17,2.43e-15,"Bacterial regulatory helix-turn-helix proteins, AraC family"
+DUF932,-0.079171678,3.89e-17,2.61e-15,Domain of unknown function (DUF932)
+FinO_N,-0.078864497,5.15e-17,3.43e-15,Fertility inhibition protein N terminal
+EAL,-0.078761637,5.65e-17,3.74e-15,EAL domain
+TrbI_Ftype,-0.078756158,5.68e-17,3.74e-15,Type-F conjugative transfer system protein (TrbI_Ftype)
+TraD_N,-0.078520803,7.02e-17,4.6e-15,F sex factor protein N terminal
+DDE_Tnp_1_3,-0.078446135,7.51e-17,4.89e-15,Transposase DDE domain
+MarR_2,-0.078304385,8.54e-17,5.53e-15,MarR family
+DDE_Tnp_1_5,-0.077944051,1.18e-16,7.6e-15,Transposase DDE domain
+NTP_transf_2,-0.077852169,1.28e-16,8.21e-15,Nucleotidyltransferase domain
+Bac_DnaA,-0.077552104,1.67e-16,1.07e-14,Bacterial DnaA ATPAse domain
+adh_short_C2,-0.077457327,1.82e-16,1.15e-14,Enoyl-(Acyl carrier protein) reductase
+Beta-lactamase2,-0.077439085,1.85e-16,1.17e-14,Beta-lactamase enzyme family
+Polbeta,-0.077076948,2.55e-16,1.6e-14,"Polymerase beta, Nucleotidyltransferase"
+TraT,-0.076899889,2.99e-16,1.86e-14,Enterobacterial TraT complement resistance protein
+Hydrolase_3,-0.076110372,5.98e-16,3.71e-14,haloacid dehalogenase-like hydrolase
+UvrD_C_2,-0.076067501,6.21e-16,3.83e-14,UvrD-like helicase C-terminal domain
+NACHT,-0.075767732,8.07e-16,4.95e-14,NACHT domain
+BPD_transp_1,-0.075732702,8.32e-16,5.08e-14,Binding-protein-dependent transport system inner membrane component
+APH,-0.075685862,8.67e-16,5.26e-14,Phosphotransferase enzyme family
+Methyltransf_12,-0.075653901,8.91e-16,5.38e-14,Methyltransferase domain
+TraW_N,-0.075582677,9.48e-16,5.69e-14,Sex factor F TraW protein N terminal
+Plasmid_stab_B,-0.075501253,1.02e-15,6.08e-14,Plasmid stability protein
+SoPB_HTH,-0.07539711,1.11e-15,6.62e-14,Centromere-binding protein HTH domain
+AAA_7,-0.075255353,1.26e-15,7.45e-14,P-loop containing dynein motor region
+GIDA,-0.075221926,1.3e-15,7.63e-14,Glucose inhibited division protein A
+HAD,-0.075147551,1.38e-15,8.09e-14,haloacid dehalogenase-like hydrolase
+Biotin_lipoyl_2,-0.075133083,1.4e-15,8.15e-14,Biotin-lipoyl like
+Helicase_C,-0.074976263,1.6e-15,9.29e-14,Helicase conserved C-terminal domain
+HTH_37,-0.074694152,2.04e-15,1.18e-13,Helix-turn-helix domain
+Thioredoxin_4,-0.074682721,2.06e-15,1.18e-13,Thioredoxin
+E1-E2_ATPase,-0.074548142,2.32e-15,1.32e-13,E1-E2 ATPase
+KR,-0.074310106,2.84e-15,1.61e-13,KR domain
+PhdYeFM_antitox,-0.074014431,3.65e-15,2.07e-13,"Antitoxin Phd_YefM, type II toxin-antitoxin system"
+EamA,-0.073990542,3.73e-15,2.1e-13,EamA-like transporter family
+ADH_zinc_N,-0.073954008,3.85e-15,2.15e-13,Zinc-binding dehydrogenase
+UvrD-helicase,-0.073809014,4.35e-15,2.42e-13,UvrD/REP helicase N-terminal domain
+ADH_N,-0.073615289,5.13e-15,2.84e-13,Alcohol dehydrogenase GroES-like domain
+LacI,-0.073505433,5.63e-15,3.11e-13,"Bacterial regulatory proteins, lacI family"
+SRP54,-0.073484062,5.73e-15,3.15e-13,"SRP54-type protein, GTPase domain"
+Peptidase_S9,-0.073215685,7.19e-15,3.93e-13,Prolyl oligopeptidase family
+ALP_N,-0.073192892,7.33e-15,3.99e-13,Actin like proteins N terminal domain
+NAD_binding_8,-0.073026249,8.43e-15,4.56e-13,NAD(P)-binding Rossmann-like domain
+VirB8,-0.072586707,1.22e-14,6.57e-13,VirB8 protein
+ACR_tran,-0.072090539,1.84e-14,9.88e-13,AcrB/AcrD/AcrF family
+Cupin_2,-0.071965727,2.04e-14,1.09e-12,Cupin domain
+HAMP,-0.07186513,2.22e-14,1.18e-12,HAMP domain
+Zn_ribbon_InsA,-0.071745348,2.45e-14,1.3e-12,InsA N-terminal domain
+HTH_11,-0.071688587,2.57e-14,1.35e-12,HTH domain
+Thioredoxin,-0.071670306,2.61e-14,1.37e-12,Thioredoxin
+HNH,-0.071542061,2.9e-14,1.51e-12,HNH endonuclease
+DUF3560,-0.071528723,2.93e-14,1.52e-12,Domain of unknown function (DUF3560)
+FtsK_SpoIIIE,-0.071456017,3.11e-14,1.61e-12,FtsK/SpoIIIE family
+ParB,-0.071412482,3.22e-14,1.66e-12,ParB family
+Peptidase_M23,-0.071185616,3.88e-14,1.99e-12,Peptidase family M23
+AAA_28,-0.071009074,4.49e-14,2.29e-12,AAA domain
+HOK_GEF,-0.070994716,4.54e-14,2.31e-12,Hok/gef family
+AAA_25,-0.070462862,7e-14,3.54e-12,AAA domain
+Sigma54_activat,-0.070262571,8.24e-14,4.15e-12,Sigma-54 interaction domain
+Toprim,-0.070244169,8.36e-14,4.19e-12,Toprim domain
+Zeta_toxin,-0.069977226,1.04e-13,5.18e-12,Zeta toxin
+HATPase_c_5,-0.069834133,1.16e-13,5.78e-12,GHKL domain
+TraQ,-0.069702915,1.29e-13,6.4e-12,Type-F conjugative transfer system pilin chaperone (TraQ)
+Methyltransf_23,-0.069580894,1.43e-13,7.03e-12,Methyltransferase domain
+Peripla_BP_4,-0.069566545,1.44e-13,7.08e-12,Periplasmic binding protein domain
+OEP,-0.069535019,1.48e-13,7.2e-12,Outer membrane efflux protein
+Topoisom_bac,-0.069534837,1.48e-13,7.2e-12,DNA topoisomerase
+HTH_Tnp_IS1,-0.069434802,1.6e-13,7.74e-12,InsA C-terminal domain
+MFS_1_like,-0.069433909,1.6e-13,7.74e-12,MFS_1 like family
+TonB_dep_Rec_b-barrel,-0.069357648,1.7e-13,8.19e-12,"TonB dependent receptor-like, beta-barrel"
+Acetyltransf_4,-0.069342857,1.73e-13,8.26e-12,Acetyltransferase (GNAT) domain
+FR47,-0.068978366,2.31e-13,1.1e-11,FR47-like protein
+DDE_Tnp_ISL3,-0.068561784,3.21e-13,1.52e-11,Transposase
+Metallophos,-0.068464609,3.46e-13,1.64e-11,Calcineurin-like phosphoesterase
+PAS,-0.06833817,3.83e-13,1.8e-11,PAS fold
+Epimerase,-0.068306735,3.92e-13,1.84e-11,NAD dependent epimerase/dehydratase family
+DUF4942,-0.068220198,4.2e-13,1.96e-11,Domain of unknown function (DUF4942)
+CagX,-0.068184761,4.32e-13,2.01e-11,Conjugal transfer protein
+TniB,-0.068001025,4.99e-13,2.31e-11,Bacterial TniB protein
+SACK1,-0.067989916,5.03e-13,2.32e-11,Scaffolding anchor of CK1 domain
+ABC_ATPase,-0.067833223,5.69e-13,2.61e-11,P-loop domain
+TrbL,-0.067738745,6.12e-13,2.8e-11,TrbL/VirB6 plasmid conjugal transfer protein
+Mu-transpos_C_2,-0.067640444,6.61e-13,3.01e-11,"Mu transposase, C-terminal domain"
+Peripla_BP_1,-0.067607021,6.79e-13,3.08e-11,Periplasmic binding proteins and sugar binding domain of LacI family
+TrbE,-0.067529189,7.21e-13,3.26e-11,Conjugal transfer protein TrbE
+Plug,-0.06746251,7.6e-13,3.42e-11,TonB-dependent Receptor Plug Domain
+HMA,-0.066851619,1.22e-12,5.47e-11,Heavy-metal-associated domain
+Toprim_3,-0.066798235,1.27e-12,5.68e-11,Toprim domain
+AAA_2,-0.066763171,1.3e-12,5.81e-11,AAA domain (Cdc48 subfamily)
+nSTAND1,-0.066358505,1.78e-12,7.9e-11,Novel STAND NTPase 1
+NB-ARC,-0.066276084,1.9e-12,8.35e-11,NB-ARC domain
+Peripla_BP_3,-0.066275317,1.9e-12,8.35e-11,Periplasmic binding protein-like domain
+Biotin_lipoyl,-0.066250708,1.93e-12,8.48e-11,Biotin-requiring enzyme
+ADH_zinc_N_2,-0.066182135,2.04e-12,8.9e-11,Zinc-binding dehydrogenase
+SBP_bac_5,-0.065942286,2.45e-12,1.06e-10,"Bacterial extracellular solute-binding proteins, family 5 Middle"
+MerR-DNA-bind,-0.065722457,2.89e-12,1.25e-10,"MerR, DNA binding"
+DUF2726,-0.065641413,3.07e-12,1.33e-10,Protein of unknown function (DUF2726)
+TrmB,-0.065522536,3.36e-12,1.45e-10,Sugar-specific transcriptional regulator TrmB
+ATPase_2,-0.065446399,3.56e-12,1.53e-10,ATPase domain predominantly from Archaea
+Pyr_redox_dim,-0.065277807,4.04e-12,1.73e-10,"Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain"
+TraP,-0.065123133,4.54e-12,1.93e-10,TraP protein
+Sigma70_r2,-0.064882235,5.44e-12,2.31e-10,Sigma-70 region 2
+CcdB,-0.064874038,5.48e-12,2.31e-10,CcdB protein
+Rce1-like,-0.064737239,6.07e-12,2.55e-10,Type II CAAX prenyl endopeptidase Rce1-like
+APS_kinase,-0.064661255,6.42e-12,2.69e-10,Adenylylsulphate kinase
+CcdA,-0.064577296,6.84e-12,2.85e-10,Post-segregation antitoxin CcdA
+Fic,-0.064577099,6.84e-12,2.85e-10,Fic/DOC family
+Pterin_bind,-0.064439954,7.57e-12,3.14e-10,Pterin binding enzyme
+GntR,-0.0643433,8.14e-12,3.36e-10,"Bacterial regulatory proteins, gntR family"
+CagE_TrbE_VirB,-0.064295461,8.43e-12,3.47e-10,"CagE, TrbE, VirB family, component of type IV transporter system"
+NAD_binding_2,-0.063672645,1.34e-11,5.48e-10,NAD binding domain of 6-phosphogluconate dehydrogenase
+Y2_Tnp,-0.063591006,1.42e-11,5.8e-10,Putative transposase
+Histone_HNS,-0.06358347,1.43e-11,5.81e-10,H-NS histone C-terminal domain
+RHH_1,-0.063523707,1.49e-11,6.05e-10,"Ribbon-helix-helix protein, copG family"
+CitMHS,-0.063408862,1.62e-11,6.56e-10,Citrate transporter
+Mg_chelatase,-0.063368448,1.67e-11,6.73e-10,"Magnesium chelatase, subunit ChlI"
+MMPL,-0.063145065,1.97e-11,7.9e-10,MMPL family
+Acetyltransf_8,-0.06312182,2e-11,8.01e-10,Acetyltransferase (GNAT) domain
+PemK_toxin,-0.063099815,2.03e-11,8.11e-10,"PemK-like, MazF-like toxin of type II toxin-antitoxin system"
+DUF1281_C,-0.062975686,2.22e-11,8.84e-10,Ferredoxin-like domain in Api92-like protein
+BD-FAE,-0.062752224,2.62e-11,1.03e-09,BD-FAE
+DUF1281,-0.062750324,2.62e-11,1.03e-09,Protein of unknown function (DUF1281)
+FMN_red,-0.062495756,3.15e-11,1.24e-09,NADPH-dependent FMN reductase
+Methyltransf_11,-0.062463252,3.22e-11,1.26e-09,Methyltransferase domain
+VirB3,-0.062459442,3.23e-11,1.26e-09,"Type IV secretory pathway, VirB3-like protein"
+Eco57I,-0.062136429,4.08e-11,1.59e-09,Eco57I restriction-modification methylase
+DNA_methylase,-0.062026186,4.41e-11,1.71e-09,C-5 cytosine-specific DNA methylase
+FAD_binding_3,-0.061983319,4.55e-11,1.76e-09,FAD binding domain
+RNase_T,-0.061781649,5.26e-11,2.03e-09,Exonuclease
+Transpeptidase,-0.061756019,5.36e-11,2.06e-09,Penicillin binding protein transpeptidase domain
+RuvB_N,-0.061704345,5.56e-11,2.13e-09,Holliday junction DNA helicase RuvB P-loop domain
+Methyltransf_31,-0.061680841,5.65e-11,2.16e-09,Methyltransferase domain
+TraY,-0.061676741,5.67e-11,2.16e-09,TraY domain
+DDE_Tnp_1_6,-0.061628474,5.87e-11,2.23e-09,Transposase DDE domain
+DHFR_1,-0.061499516,6.43e-11,2.43e-09,Dihydrofolate reductase
+YHS,-0.06149389,6.46e-11,2.43e-09,YHS domain
+DUF1778,-0.061389997,6.95e-11,2.61e-09,Protein of unknown function (DUF1778)
+NPHP3_N,-0.061383905,6.98e-11,2.61e-09,"Nephrocystin 3, N-terminal"
+2-Hacid_dh_C,-0.061325571,7.27e-11,2.72e-09,"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"
+Transposase_mut,-0.061111654,8.46e-11,3.15e-09,"Transposase, Mutator family"
+ABC_membrane,-0.060992472,9.21e-11,3.41e-09,ABC transporter transmembrane region
+Abhydrolase_3,-0.060906797,9.78e-11,3.62e-09,alpha/beta hydrolase fold
+DNA_pol3_theta,-0.060873644,1e-10,3.69e-09,"DNA polymerase III, theta subunit"
+RrnaAD,-0.060669141,1.16e-10,4.24e-09,Ribosomal RNA adenine dimethylase
+PAS_8,-0.060667032,1.16e-10,4.24e-09,PAS domain
+Zn_ribbon_ISL3,-0.060638994,1.18e-10,4.31e-09,zinc-finger of transposase IS204/IS1001/IS1096/IS1165
+Xre-like-HTH,-0.060607132,1.21e-10,4.39e-09,Antitoxin Xre-like helix-turn-helix domain
+Cu-oxidase_2,-0.060545319,1.26e-10,4.57e-09,Multicopper oxidase
+Cu-oxidase_3,-0.060540375,1.27e-10,4.57e-09,Multicopper oxidase
+Aminotran_1_2,-0.060537281,1.27e-10,4.57e-09,Aminotransferase class I and II
+F420_oxidored,-0.060532872,1.27e-10,4.57e-09,NADP oxidoreductase coenzyme F420-dependent
+ArdcN,-0.060396416,1.4e-10,5.01e-09,N-terminal domain of anti-restriction factor ArdC
+Peptidase_S26,-0.060314878,1.48e-10,5.29e-09,"Signal peptidase, peptidase S26"
+Peptidase_S15,-0.060268132,1.53e-10,5.45e-09,X-Pro dipeptidyl-peptidase (S15 family)
+HTH_DeoR,-0.060225713,1.58e-10,5.59e-09,DeoR-like helix-turn-helix domain
+ArdA,-0.060215814,1.59e-10,5.61e-09,Antirestriction protein (ArdA)
+CENP-B_N,-0.060160164,1.65e-10,5.82e-09,CENP-B N-terminal DNA-binding domain
+Lactamase_B,-0.059992616,1.85e-10,6.52e-09,Metallo-beta-lactamase superfamily
+HTH_25,-0.059951149,1.91e-10,6.69e-09,Helix-turn-helix domain
+AhpC-TSA,-0.059874889,2.01e-10,7.03e-09,AhpC/TSA family
+HTH_54,-0.059736378,2.21e-10,7.71e-09,ParA helix turn helix domain
+PIN_3,-0.059693636,2.28e-10,7.92e-09,PIN domain
+LacY_symp,-0.059642401,2.36e-10,8.18e-09,LacY proton/sugar symporter
+MFS_3,-0.059622074,2.4e-10,8.27e-09,Transmembrane secretion effector
+HTH_AsnC-type,-0.059573289,2.48e-10,8.53e-09,AsnC-type helix-turn-helix domain
+NAD_binding_7,-0.05948457,2.63e-10,9.04e-09,Putative NAD(P)-binding
+DLH,-0.059407214,2.78e-10,9.5e-09,Dienelactone hydrolase family
+Cu-oxidase,-0.059180117,3.25e-10,1.11e-08,Multicopper oxidase
+SDR,-0.059116227,3.39e-10,1.15e-08,SDR-like rossmann domain
+Transposase_31,-0.059089477,3.45e-10,1.17e-08,"Putative transposase, YhgA-like"
+Gp49,-0.059068189,3.5e-10,1.19e-08,Phage derived protein Gp49-like (DUF891)
+UvrD_C,-0.059036832,3.58e-10,1.21e-08,UvrD-like helicase C-terminal domain
+MMR_HSR1,-0.058925109,3.86e-10,1.3e-08,S ribosome-binding GTPase
+GAF,-0.058576368,4.9e-10,1.64e-08,GAF domain
+GGDEF,-0.058439918,5.37e-10,1.8e-08,"Diguanylate cyclase, GGDEF domain"
+HTH_8,-0.058397752,5.53e-10,1.84e-08,"Bacterial regulatory protein, Fis family"
+FecCD,-0.05825634,6.08e-10,2.02e-08,FecCD transport family
+Toprim_2,-0.058129874,6.62e-10,2.2e-08,Toprim-like
+Histone_HNS_N,-0.057933904,7.56e-10,2.5e-08,"H-NS histone-like proteins, N-terminal domain"
+MobC,0.057843092,8.03e-10,2.65e-08,Bacterial mobilisation protein (MobC)
+Glycos_transf_1,-0.057804954,8.24e-10,2.71e-08,Glycosyl transferases group 1
+GIIM,-0.057736394,8.63e-10,2.83e-08,"Group II intron, maturase-specific domain"
+TsaE,-0.057601232,9.44e-10,3.09e-08,Threonylcarbamoyl adenosine biosynthesis protein TsaE
+DDE_3,-0.057500082,1.01e-09,3.29e-08,DDE superfamily endonuclease
+AAA_11,-0.057264614,1.18e-09,3.84e-08,AAA domain
+NAD_binding_9,-0.05724976,1.19e-09,3.87e-08,FAD-NAD(P)-binding
+AlaDh_PNT_C,-0.057205922,1.23e-09,3.97e-08,"Alanine dehydrogenase/PNT, C-terminal domain"
+PETase,-0.057198418,1.23e-09,3.98e-08,PET hydrolase-like
+DDE_Tnp_4,-0.057166181,1.26e-09,4.05e-08,DDE superfamily endonuclease
+MTES_1575,-0.057029934,1.38e-09,4.42e-08,REase_MTES_1575
+TPR_2,-0.056898251,1.51e-09,4.81e-08,Tetratricopeptide repeat
+GAF_2,-0.05685455,1.55e-09,4.93e-08,GAF domain
+AAA_24,-0.056853802,1.55e-09,4.93e-08,AAA domain
+Hydantoinase_A,-0.056794838,1.61e-09,5.11e-08,Hydantoinase/oxoprolinase
+CopC,-0.056770421,1.64e-09,5.18e-08,CopC domain
+NLPC_P60,-0.056642786,1.78e-09,5.61e-08,NlpC/P60 family
+Zn_Tnp_IS91,-0.056570085,1.87e-09,5.87e-08,Transposase zinc-binding domain
+ArsC,-0.0562392,2.32e-09,7.27e-08,ArsC family
+Hexapep,-0.056215059,2.36e-09,7.37e-08,Bacterial transferase hexapeptide (six repeats)
+HTH_22,-0.056167116,2.43e-09,7.58e-08,HTH domain
+MeaB,-0.056159152,2.44e-09,7.6e-08,Methylmalonyl Co-A mutase-associated GTPase MeaB
+HU-CCDC81_euk_1,-0.056083806,2.57e-09,7.96e-08,CCDC81 eukaryotic HU domain 1
+LPD7,-0.055983703,2.74e-09,8.47e-08,Large polyvalent protein-associated domain 7
+Secretin,-0.05592845,2.84e-09,8.76e-08,Bacterial type II and III secretion system protein
+AadA_C,-0.055862785,2.96e-09,9.11e-08,"Aminoglycoside adenylyltransferase, C-terminal domain"
+VWA,-0.055800359,3.09e-09,9.45e-08,von Willebrand factor type A domain
+Glyoxalase,-0.055798424,3.09e-09,9.45e-08,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Cas12f1-like_TNB,-0.055666579,3.37e-09,1.03e-07,"Cas12f1-like, TNB domain"
+HMBD,-0.05560911,3.49e-09,1.06e-07,Heavy metal binding domain
+HTH_34,-0.055492986,3.76e-09,1.14e-07,Winged helix DNA-binding domain
+TraI_middle,-0.055285279,4.3e-09,1.3e-07,TraI-like middle domain
+Peptidase_S11,-0.055259837,4.37e-09,1.32e-07,D-alanyl-D-alanine carboxypeptidase
+DUF5710,-0.055205924,4.53e-09,1.36e-07,Domain of unknown function (DUF5710)
+MPTase-PolyVal,-0.055195363,4.56e-09,1.37e-07,Zincin-like metallopeptidase
+CusB_dom_1,-0.055193315,4.56e-09,1.37e-07,Cation efflux system protein CusB domain 1
+IMS_HHH_1,-0.055139679,4.72e-09,1.41e-07,"DNA polymerase-iota, thumb domain"
+CusS,-0.054823383,5.78e-09,1.72e-07,CusS sensor domain
+ArsB,-0.054528842,6.97e-09,2.07e-07,Arsenical pump membrane protein
+FtsX,-0.054261053,8.25e-09,2.45e-07,FtsX-like permease C-terminal
+SBP_bac_1,-0.054234865,8.39e-09,2.48e-07,Bacterial extracellular solute-binding protein
+Toprim_Crpt,-0.054223274,8.45e-09,2.49e-07,C-terminal repeat of topoisomerase
+Prok-JAB,-0.054159343,8.8e-09,2.59e-07,Prokaryotic homologs of the JAB domain
+HNH_2,-0.054126654,8.98e-09,2.64e-07,HNH endonuclease
+T2SSF,-0.054121114,9.01e-09,2.64e-07,"Type II secretion system (T2SS), protein F"
+Glyco_trans_1_4,-0.054064404,9.34e-09,2.72e-07,Glycosyl transferases group 1
+OrfB_IS605,-0.054062718,9.35e-09,2.72e-07,Probable transposase
+3HCDH_N,-0.054056716,9.39e-09,2.73e-07,"-hydroxyacyl-CoA dehydrogenase, NAD binding domain"
+CusF_Ec,-0.05380495,1.1e-08,3.18e-07,Copper binding periplasmic protein CusF
+PAS_4,-0.053743607,1.14e-08,3.3e-07,PAS fold
+DUF2933,-0.053740081,1.14e-08,3.3e-07,Protein of unknown function (DUF2933)
+oligo_HPY,-0.053727357,1.15e-08,3.32e-07,"Oligopeptide/dipeptide transporter, C-terminal region"
+HTH_OrfB_IS605,-0.053722857,1.16e-08,3.32e-07,Helix-turn-helix domain
+ParE-like_toxin,-0.053635093,1.22e-08,3.5e-07,ParE-like toxin of type II bacterial toxin-antitoxin system
+Lys_Orn_oxgnase,-0.053500242,1.33e-08,3.79e-07,L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+NAD_binding_10,-0.053454881,1.37e-08,3.89e-07,NAD(P)H-binding
+CopD,-0.053348758,1.46e-08,4.15e-07,Copper resistance protein D
+DUF411,-0.05325857,1.54e-08,4.38e-07,"Protein of unknown function, DUF"
+BPD_transp_1_N,-0.053156438,1.64e-08,4.65e-07,"Binding-prot-dependent transport system membrane comp, N-term"
+Mrr_cat,-0.05310782,1.7e-08,4.78e-07,Restriction endonuclease
+Usp,-0.052954582,1.86e-08,5.24e-07,Universal stress protein family
+RES,-0.052918011,1.91e-08,5.35e-07,RES domain
+MbeB_N,0.052882544,1.95e-08,5.45e-07,"MbeB-like, N-term conserved region"
+MULE,-0.052830839,2.01e-08,5.61e-07,MULE transposase domain
+MobL,-0.05282637,2.02e-08,5.62e-07,MobL relaxases
+MerE,-0.05249511,2.47e-08,6.86e-07,MerE protein
+DUF6404,-0.052457681,2.53e-08,7.01e-07,Family of unknown function (DUF6404)
+HlyD_D4,-0.052392955,2.63e-08,7.27e-07,"Long alpha hairpin domain of cation efflux system protein, CusB"
+Glyco_transf_4,-0.05226517,2.84e-08,7.84e-07,Glycosyltransferase Family 4
+PAS_9,-0.052247206,2.87e-08,7.91e-07,PAS domain
+Thi4,-0.052200203,2.96e-08,8.11e-07,Thi4 family
+SBP_bac_8,-0.052198131,2.96e-08,8.11e-07,Bacterial extracellular solute-binding protein
+DDE_Tnp_1_4,-0.0521638,3.02e-08,8.26e-07,Transposase DDE domain group 1
+Peripla_BP_2,-0.052022609,3.29e-08,8.98e-07,Periplasmic binding protein
+FCD,-0.051981745,3.37e-08,9.18e-07,FCD domain
+Big_5,-0.051955116,3.43e-08,9.31e-07,Bacterial Ig-like domain
+Rrf2,-0.051821045,3.72e-08,1.01e-06,Iron-dependent Transcriptional regulator
+RelB,-0.051780858,3.81e-08,1.03e-06,RelB antitoxin
+HTH_27,-0.051711151,3.97e-08,1.07e-06,Winged helix DNA-binding domain
+CopB,-0.051642428,4.14e-08,1.11e-06,Copper resistance protein B precursor (CopB)
+Glyco_trans_4_4,-0.051510728,4.48e-08,1.2e-06,Glycosyl transferase 4-like domain
+SNF2-rel_dom,-0.051385158,4.83e-08,1.29e-06,SNF2-related domain
+TPR_1,-0.051359341,4.91e-08,1.31e-06,Tetratricopeptide repeat
+DeoRC,-0.051352199,4.93e-08,1.31e-06,DeoR C terminal sensor domain
+T4SS,-0.051344506,4.95e-08,1.32e-06,Type IV secretion system proteins
+CLP1_P,-0.051285351,5.13e-08,1.36e-06,mRNA cleavage and polyadenylation factor CLP1 P-loop
+Redoxin,-0.05127924,5.15e-08,1.36e-06,Redoxin
+Radical_SAM,-0.051277929,5.15e-08,1.36e-06,Radical SAM superfamily
+Peptidase_A24,-0.051266502,5.19e-08,1.37e-06,Type IV leader peptidase family
+Staph_reg_Sar_Rot,-0.051193571,5.42e-08,1.42e-06,Transcriptional regulator SarA/Rot
+PAPS_reduct,-0.051171106,5.49e-08,1.44e-06,Phosphoadenosine phosphosulfate reductase family
+Terminase_5,-0.051165732,5.51e-08,1.44e-06,Putative ATPase subunit of terminase (gpP-like)
+ATP_bind_1,-0.05107064,5.83e-08,1.52e-06,Conserved hypothetical ATP binding protein
+TerB,-0.050790172,6.89e-08,1.79e-06,Tellurite resistance protein TerB
+TetR_C_13,-0.050782559,6.92e-08,1.8e-06,"Tetracyclin repressor-like, C-terminal domain"
+Aldedh,-0.050701598,7.26e-08,1.88e-06,Aldehyde dehydrogenase family
+Thioredoxin_8,-0.050684789,7.33e-08,1.89e-06,Thioredoxin-like
+RNA_helicase,-0.050682859,7.34e-08,1.89e-06,RNA helicase
+Phosphonate-bd,-0.050682,7.34e-08,1.89e-06,"ABC transporter, phosphonate, periplasmic substrate-binding protein"
+DUF305,-0.050579898,7.8e-08,2e-06,Domain of unknown function (DUF305)
+Peripla_BP_6,-0.05052211,8.07e-08,2.07e-06,Periplasmic binding protein
+MerT,-0.0505131,8.11e-08,2.07e-06,MerT mercuric transport protein
+DUF4142,-0.050388574,8.73e-08,2.23e-06,Domain of unknown function (DUF4142)
+TPR_14,-0.050360972,8.87e-08,2.26e-06,Tetratricopeptide repeat
+NMT1,-0.0503588,8.88e-08,2.26e-06,NMT1/THI5 like
+ABC-3,-0.050348611,8.94e-08,2.27e-06,ABC 3 transport family
+TetR_C_1,-0.050248743,9.48e-08,2.4e-06,"Tetracyclin repressor-like, C-terminal domain"
+3Beta_HSD,-0.050241112,9.52e-08,2.4e-06,-beta hydroxysteroid dehydrogenase/isomerase family
+SLFN-g3_helicase,-0.05022879,9.59e-08,2.41e-06,"Schlafen group 3, DNA/RNA helicase domain"
+zf-dskA_traR,-0.050216972,9.65e-08,2.43e-06,Prokaryotic dksA/traR C4-type zinc finger
+Peptidase_C39,-0.05013145,1.02e-07,2.54e-06,Peptidase C39 family
+AXE1,-0.050001278,1.1e-07,2.74e-06,Acetyl xylan esterase (AXE1)
+HsdM_N,-0.049860063,1.19e-07,2.97e-06,HsdM N-terminal domain
+MbeD_MobD,0.049844068,1.2e-07,2.99e-06,MbeD/MobD like
+SWI2_SNF2,-0.049749656,1.27e-07,3.15e-06,SWI2/SNF2 ATPase
+REP_ORF2-G2P,0.049740464,1.27e-07,3.16e-06,Replication-associated protein ORF2/G2P
+BPD_transp_2,-0.049666418,1.33e-07,3.29e-06,Branched-chain amino acid transport system / permease component
+DUF5983,-0.049633887,1.36e-07,3.35e-06,Family of unknown function (DUF5983)
+Pkinase,-0.049607576,1.38e-07,3.39e-06,Protein kinase domain
+DUF2913,-0.049593272,1.39e-07,3.41e-06,Protein of unknown function (DUF2913)
+Autotransporter,-0.049573667,1.4e-07,3.45e-06,Autotransporter beta-domain
+OppC_N,-0.0494798,1.48e-07,3.63e-06,N-terminal TM domain of oligopeptide transport permease C
+AAA_27,-0.049409058,1.54e-07,3.77e-06,AAA domain
+TPR_12,-0.049383962,1.57e-07,3.82e-06,Tetratricopeptide repeat
+PAS_3,-0.049348981,1.6e-07,3.89e-06,PAS fold
+Esterase,-0.049331438,1.61e-07,3.92e-06,Putative esterase
+TnsD,-0.049329961,1.62e-07,3.92e-06,Tn7-like transposition protein D
+Peptidase_M78,-0.049303939,1.64e-07,3.97e-06,IrrE N-terminal-like domain
+PHP,-0.04919364,1.75e-07,4.22e-06,PHP domain
+Csd3_N2,-0.049185371,1.76e-07,4.23e-06,Csd3 second domain
+Fimbrial_PilY2,-0.049172129,1.77e-07,4.25e-06,Type 4 fimbrial biogenesis protein PilY2
+DNA_meth_N,-0.049118355,1.83e-07,4.37e-06,DNA methylase N-terminal domain
+MacB_PCD,-0.049116042,1.83e-07,4.37e-06,MacB-like periplasmic core domain
+DUF2689,-0.049092639,1.85e-07,4.42e-06,Protein of unknown function (DUF2689)
+HTH_30,-0.04909049,1.85e-07,4.42e-06,PucR C-terminal helix-turn-helix domain
+DotM_C,-0.049008749,1.94e-07,4.62e-06,"DotM, C-terminal cytoplasmic domain"
+DUF815,-0.04898263,1.97e-07,4.68e-06,Protein of unknown function (DUF815)
+MerC,-0.048851073,2.13e-07,5.04e-06,MerC mercury resistance protein
+Glycos_transf_2,-0.048789281,2.2e-07,5.21e-06,Glycosyl transferase family 2
+SBP_bac_3,-0.048779052,2.22e-07,5.23e-06,"Bacterial extracellular solute-binding proteins, family 3"
+Hexapep_2,-0.048754855,2.25e-07,5.29e-06,Hexapeptide repeat of succinyl-transferase
+VWA_2,-0.048714094,2.3e-07,5.4e-06,von Willebrand factor type A domain
+TOBE_2,-0.048666075,2.36e-07,5.54e-06,TOBE domain
+Multi_Drug_Res,-0.048649651,2.39e-07,5.58e-06,Small Multidrug Resistance protein
+DUF3330,-0.048527574,2.56e-07,5.97e-06,Domain of unknown function (DUF3330)
+Bac_DNA_binding,-0.048509206,2.58e-07,6.02e-06,Bacterial DNA-binding protein
+AraC_binding,-0.048493802,2.61e-07,6.06e-06,AraC-like ligand binding domain
+CMD,-0.048435655,2.69e-07,6.25e-06,Carboxymuconolactone decarboxylase family
+T4SS_TraI,-0.048283629,2.94e-07,6.8e-06,"Type IV secretory system, conjugal DNA-protein transfer"
+CN_hydrolase,-0.048268594,2.96e-07,6.84e-06,Carbon-nitrogen hydrolase
+NusG,-0.048261906,2.97e-07,6.85e-06,Transcription termination factor nusG
+T4BSS_DotH_IcmK,-0.048179311,3.11e-07,7.15e-06,Putative outer membrane core complex of type IVb secretion
+T4BSS_DotI_IcmL,-0.048179311,3.11e-07,7.15e-06,"Type-IV b secretion system, inner-membrane complex component"
+AMP-binding,-0.047991607,3.46e-07,7.93e-06,AMP-binding enzyme
+HTH_33,-0.047980909,3.48e-07,7.97e-06,Winged helix-turn helix
+DUF5431,-0.047966686,3.51e-07,8.01e-06,Family of unknown function (DUF5431)
+DotD,-0.047923165,3.6e-07,8.19e-06,DotD protein
+HSDR_N,-0.047881409,3.68e-07,8.36e-06,Type I restriction enzyme R protein N terminus (HSDR_N)
+Ter,-0.047880736,3.68e-07,8.36e-06,DNA replication terminus site-binding protein (Ter protein)
+KfrA_N,-0.04777671,3.9e-07,8.84e-06,Plasmid replication region DNA-binding N-term
+PfkB,-0.047761811,3.94e-07,8.9e-06,pfkB family carbohydrate kinase
+Glutaredoxin,-0.0477471,3.97e-07,8.95e-06,Glutaredoxin
+MSMEG_3727_PQQ-assoc,-0.047720341,4.03e-07,9.07e-06,"MSMEG_3727, PQQ-associated"
+PadR,-0.047686814,4.1e-07,9.23e-06,Transcriptional regulator PadR-like family
+GmrSD_N,-0.047668798,4.15e-07,9.3e-06,"GmrSD restriction endonuclease, N-terminal domain"
+Amidohydro_3,-0.047594784,4.32e-07,9.67e-06,Amidohydrolase family
+Amidohydro_1,-0.047560773,4.4e-07,9.82e-06,Amidohydrolase family
+SBP_bac_11,-0.047560079,4.4e-07,9.82e-06,Bacterial extracellular solute-binding protein
+DUF1173,-0.047493685,4.57e-07,1.02e-05,Protein of unknown function (DUF1173)
+GTP_EFTU,-0.047317202,5.04e-07,1.12e-05,Elongation factor Tu GTP binding domain
+TPR_19,-0.04726993,5.17e-07,1.15e-05,Tetratricopeptide repeat
+Methylase_S,-0.046994382,6.02e-07,1.33e-05,Type I restriction modification DNA specificity domain
+Lactamase_B_2,-0.046953412,6.16e-07,1.36e-05,Beta-lactamase superfamily domain
+Nuc_H_symport,-0.046941251,6.2e-07,1.37e-05,Nucleoside H+ symporter
+SbcC_Walker_B,-0.046871272,6.44e-07,1.42e-05,"SbcC/RAD50-like, Walker B motif"
+SIS,-0.04678472,6.76e-07,1.48e-05,SIS domain
+LbH_EIF2B,-0.04675025,6.89e-07,1.51e-05,EIF2B subunit epsilon LbH domain
+Zn_ribbon_Top1,-0.046739979,6.93e-07,1.52e-05,Topoisomerase DNA binding C4 zinc finger
+DUF7146,-0.046715722,7.02e-07,1.53e-05,Domain of unknown function (DUF7146)
+Y1_Tnp,-0.046567201,7.61e-07,1.66e-05,Transposase IS200 like
+NTP_transf_3,-0.046509139,7.86e-07,1.71e-05,MobA-like NTP transferase domain
+MobI,-0.046459919,8.07e-07,1.75e-05,MobI protein
+OLD-like_TOPRIM,-0.046406609,8.31e-07,1.8e-05,"Overcoming lysogenization defect protein-like, TOPRIM domain"
+TPR_8,-0.046335015,8.64e-07,1.87e-05,Tetratricopeptide repeat
+bpMoxR,-0.046281475,8.89e-07,1.92e-05,MoxR domain in the MoxR-vWA-beta-propeller ternary systems
+SRAP,-0.046270771,8.94e-07,1.93e-05,SOS response associated peptidase (SRAP)
+RepL,0.046179022,9.4e-07,2.02e-05,Firmicute plasmid replication protein (RepL)
+ParD_antitoxin,-0.046080082,9.92e-07,2.13e-05,Bacterial antitoxin of ParD toxin-antitoxin type II system and RHH
+NAD_binding_4,-0.046077403,9.93e-07,2.13e-05,Male sterility protein
+GFO_IDH_MocA,-0.046067248,9.99e-07,2.14e-05,"Oxidoreductase family, NAD-binding Rossmann fold"
+TraS,-0.046044203,1.01e-06,2.16e-05,Plasmid conjugative transfer entry exclusion protein TraS
+DUF6750,-0.046028249,1.02e-06,2.17e-05,Family of unknown function (DUF6750)
+Fer2,-0.045989077,1.04e-06,2.22e-05,Fe-2S iron-sulfur cluster binding domain
+ArsD,-0.045829499,1.14e-06,2.41e-05,Arsenical resistance operon protein ArsD
+HTH_17,-0.045735171,1.19e-06,2.53e-05,Helix-turn-helix domain
+OMP_b-brl_3,-0.045686445,1.23e-06,2.59e-05,Outer membrane protein beta-barrel family
+DsbC_N,-0.045682948,1.23e-06,2.59e-05,Disulfide bond isomerase protein N-terminal domain
+DNA_ligase_A_M,-0.045666264,1.24e-06,2.61e-05,ATP dependent DNA ligase domain
+TrkA_N,-0.045577561,1.3e-06,2.73e-05,TrkA-N domain
+DJ-1_PfpI,-0.045555851,1.31e-06,2.76e-05,DJ-1/PfpI family
+HU-HIG,-0.045519308,1.34e-06,2.81e-05,"HU domain fused to wHTH, Ig, or Glycine-rich motif"
+Flavodoxin_2,-0.045499004,1.36e-06,2.84e-05,Flavodoxin-like fold
+Usher,-0.045419258,1.41e-06,2.95e-05,Outer membrane usher protein
+HSP20,-0.045407895,1.42e-06,2.97e-05,Hsp20/alpha crystallin family
+cobW,-0.04537852,1.44e-06,3.01e-05,"CobW/HypB/UreG, nucleotide-binding domain"
+AAA_3,-0.045370537,1.45e-06,3.02e-05,ATPase family associated with various cellular activities (AAA)
+MannoseP_isomer,-0.045327883,1.48e-06,3.07e-05,Mannose-6-phosphate isomerase C-terminal
+NmrA,-0.045327143,1.49e-06,3.07e-05,NmrA-like family
+Peripla_BP_5,-0.045298369,1.51e-06,3.12e-05,Periplasmic binding protein domain
+GDP_Man_Dehyd,-0.045196304,1.59e-06,3.28e-05,"GDP-mannose 4,6 dehydratase"
+AP_endonuc_2,-0.045145108,1.64e-06,3.37e-05,Xylose isomerase-like TIM barrel
+DUF3991,-0.045093903,1.68e-06,3.46e-05,Protein of unknown function (DUF3991)
+Fe_dep_repress,-0.045035157,1.73e-06,3.56e-05,"Iron dependent repressor, N-terminal DNA binding domain"
+MethyltransfD12,-0.044991792,1.77e-06,3.63e-05,D12 class N6 adenine-specific DNA methyltransferase
+T1R_D3-like,-0.044951275,1.81e-06,3.7e-05,Type I restriction enzyme subunit R domain 3
+Amino_oxidase,-0.044950635,1.81e-06,3.7e-05,Flavin containing amine oxidoreductase
+Lycopene_cycl,-0.044798423,1.96e-06,4e-05,Lycopene cyclase protein
+PapD_N,-0.044784929,1.98e-06,4.02e-05,"Pili and flagellar-assembly chaperone, PapD N-terminal domain"
+Thioredoxin_3,-0.044772446,1.99e-06,4.04e-05,Thioredoxin domain
+Sulfatase,-0.044761533,2e-06,4.06e-05,Sulfatase
+RepA_N,-0.044737275,2.03e-06,4.1e-05,Replication initiator protein A (RepA) N-terminus
+AAA_12,-0.044704264,2.06e-06,4.17e-05,AAA domain
+DUF4149,-0.044693113,2.08e-06,4.19e-05,Domain of unknown function (DUF4149)
+AMP-binding_C,-0.044663629,2.11e-06,4.24e-05,AMP-binding enzyme C-terminal domain
+DNA_pol3_finger,-0.044662993,2.11e-06,4.24e-05,Bacterial DNA polymerase III alpha subunit finger domain
+HATPase_c_2,-0.044637089,2.14e-06,4.29e-05,Histidine kinase-like ATPase domain
+DNA_pol3_alpha,-0.044619276,2.16e-06,4.32e-05,Bacterial DNA polymerase III alpha NTPase domain
+RmlD_sub_bind,-0.044609418,2.17e-06,4.34e-05,RmlD substrate binding domain
+Glyco_tranf_2_3,-0.044532929,2.26e-06,4.51e-05,Glycosyltransferase like family 2
+GT4-conflict,-0.044476473,2.33e-06,4.63e-05,Family 4 Glycosyltransferase in conflict systems
+HHH_6,-0.044424407,2.39e-06,4.75e-05,Helix-hairpin-helix motif
+Oxidored_FMN,-0.044416359,2.4e-06,4.76e-05,NADH:flavin oxidoreductase / NADH oxidase family
+Peptidase_M20,-0.044353251,2.48e-06,4.92e-05,Peptidase family M20/M25/M40
+Sigma54_activ_2,-0.044234939,2.64e-06,5.22e-05,Sigma-54 interaction domain
+Cys_Met_Meta_PP,-0.044221587,2.66e-06,5.25e-05,Cys/Met metabolism PLP-dependent enzyme
+AAA_13,-0.044184095,2.71e-06,5.34e-05,AAA domain
+ClpB_D2-small,-0.044046317,2.91e-06,5.73e-05,"C-terminal, D2-small domain, of ClpB protein"
+GFO_IDH_MocA_C3,-0.043944585,3.07e-06,6.03e-05,GFO/IDH/MocA C-terminal domain
+Alpha-amylase,-0.043940045,3.07e-06,6.03e-05,"Alpha amylase, catalytic domain"
+Polysacc_deac_1,-0.043881164,3.17e-06,6.21e-05,Polysaccharide deacetylase
+HTH_Tnp_1_2,-0.043848529,3.22e-06,6.3e-05,Helix-turn-helix of insertion element transposase
+PilS,-0.043794492,3.31e-06,6.47e-05,PilS N terminal
+TcpQ,-0.04377818,3.34e-06,6.51e-05,Toxin co-regulated pilus biosynthesis protein Q
+RP-C,-0.043610022,3.64e-06,7.09e-05,Replication protein C N-terminal domain
+Peptidase_M48,-0.043505268,3.84e-06,7.47e-05,Peptidase family M48
+His_Phos_1,-0.043498901,3.86e-06,7.48e-05,Histidine phosphatase superfamily (branch 1)
+ThiF,-0.043434129,3.99e-06,7.72e-05,ThiF family
+TrbM,-0.043420372,4.02e-06,7.76e-05,TrbM
+Ubie_methyltran,-0.043402279,4.05e-06,7.8e-05,ubiE/COQ5 methyltransferase family
+HAD_2,-0.043401998,4.05e-06,7.8e-05,Haloacid dehalogenase-like hydrolase
+Ribonuc_L-PSP,-0.04338023,4.1e-06,7.88e-05,Endoribonuclease L-PSP
+BrxL_ATPase,-0.043377104,4.11e-06,7.88e-05,"Lon-like protease BrxL-like, ATPase domain"
+AAA_lid_9,-0.043368854,4.12e-06,7.9e-05,AAA lid domain
+DDE_Tnp_1_2,-0.043342083,4.18e-06,7.99e-05,Transposase DDE domain
+GST_N_3,-0.043320765,4.23e-06,8.07e-05,"Glutathione S-transferase, N-terminal domain"
+TraI_2,-0.043298744,4.27e-06,8.15e-05,Putative helicase
+MFS_2,-0.043280961,4.31e-06,8.21e-05,MFS/sugar transport protein
+DnaJ_CXXCXGXG,-0.043254443,4.37e-06,8.3e-05,DnaJ central domain
+SnoaL_2,-0.043224872,4.44e-06,8.42e-05,SnoaL-like domain
+GFO_IDH_MocA_C,-0.043188366,4.52e-06,8.56e-05,"Oxidoreductase family, C-terminal alpha/beta domain"
+DUF7347,-0.043169274,4.56e-06,8.63e-05,Domain of unknown function (DUF7347)
+Aldo_ket_red,-0.043115399,4.69e-06,8.85e-05,Aldo/keto reductase family
+PapC_N,-0.043062331,4.82e-06,9.08e-05,PapC N-terminal domain
+PepSY_TM,-0.043057074,4.83e-06,9.09e-05,PepSY-associated TM region
+Acetyltransf_CG,-0.043033736,4.89e-06,9.18e-05,GCN5-related N-acetyl-transferase
+STAS,-0.042946375,5.11e-06,9.58e-05,STAS domain
+Mobilization_B,0.04292938,5.15e-06,9.65e-05,Mobilization protein B
+TPR_16,-0.042856901,5.35e-06,0.0001,Tetratricopeptide repeat
+Glyco_hydro_2_N,-0.042847531,5.37e-06,0.000100263,"Glycosyl hydrolases family 2, sugar binding domain"
+Glyco_hydro_2_C,-0.042787987,5.54e-06,0.000103155,"Glycosyl hydrolases family 2, TIM barrel domain"
+Isochorismatase,-0.042763883,5.6e-06,0.000104249,Isochorismatase domain
+Glyco_hydro_2_N2,-0.042735252,5.69e-06,0.000105593,Glycosyl hydrolase 2 galactose-binding domain-like
+DUF4400,-0.042651427,5.93e-06,0.000109967,Domain of unknown function (DUF4400)
+GST_N_2,-0.042644529,5.95e-06,0.000110172,"Glutathione S-transferase, N-terminal domain"
+Glyco_hydro_2,-0.042618192,6.03e-06,0.000111462,Glycosyl hydrolases family 2
+PAP_PilO,-0.042594308,6.1e-06,0.000112627,Pilin accessory protein (PilO)
+2-Hacid_dh,-0.042498601,6.4e-06,0.000117979,"D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain"
+Xre_MbcA_ParS_C,-0.04246765,6.5e-06,0.000119632,Antitoxin Xre/MbcA/ParS C-terminal toxin-binding domain
+Shufflon_N,-0.04244516,6.58e-06,0.000120794,"Bacterial shufflon protein, N-terminal constant region"
+DUF6290,-0.042435287,6.61e-06,0.0001212,Family of unknown function (DUF6290)
+Secretin_N_2,-0.042406027,6.71e-06,0.000122792,Secretin N-terminal domain
+Glu_dehyd_C,-0.042380776,6.79e-06,0.000124155,Glucose dehydrogenase C-terminus
+GST_N,-0.042302908,7.06e-06,0.000128876,"Glutathione S-transferase, N-terminal domain"
+SGL,-0.042287842,7.12e-06,0.000129643,SMP-30/Gluconolactonase/LRE-like region
+RP-C_C,-0.042212898,7.39e-06,0.000134367,Replication protein C C-terminal region
+Terminase_6N,-0.042177537,7.52e-06,0.000136529,"Terminase large subunit, T4likevirus-type, N-terminal"
+NTP_transferase,-0.042174516,7.53e-06,0.000136529,Nucleotidyl transferase
+Pentapeptide,-0.042035885,8.07e-06,0.000146037,Pentapeptide repeats (8 copies)
+tRNA_anti-codon,-0.041919883,8.54e-06,0.000154436,OB-fold nucleic acid binding domain
+HepT-like,-0.041858583,8.81e-06,0.000158941,Ribonuclease HepT-like
+PIF1,-0.041844908,8.87e-06,0.000159769,PIF1-like helicase
+IclR_C,-0.04183813,8.9e-06,0.000160055,Bacterial transcriptional regulator IclR C-terminal
+ArsA_HSP20,-0.04176391,9.23e-06,0.000165769,HSP20-like domain found in ArsA
+DUF4096,-0.041713531,9.46e-06,0.000169673,Putative transposase of IS4/5 family (DUF4096)
+Fe-ADH,-0.041700026,9.52e-06,0.000170541,Iron-containing alcohol dehydrogenase
+DUF3482,-0.041690684,9.57e-06,0.000170719,Domain of unknown function (DUF3482)
+EcoRII-N,-0.041689126,9.57e-06,0.000170719,"Restriction endonuclease EcoRII, N-terminal"
+Arm-DNA-bind_3,-0.041686124,9.59e-06,0.000170719,Arm DNA-binding domain
+TerC,-0.041685339,9.59e-06,0.000170719,Integral membrane protein TerC family
+Aminotran_5,-0.041656912,9.73e-06,0.000172857,Aminotransferase class-V
+Fe-ADH_2,-0.041626662,9.87e-06,0.000175179,Iron-containing alcohol dehydrogenase
+Lig_chan-Glu_bd,-0.041622614,9.89e-06,0.000175258,Ligated ion channel L-glutamate- and glycine-binding site
+Sulfate_transp,-0.041606295,9.97e-06,0.000176399,Sulfate permease family
+Bac_luciferase,-0.04159424,1e-05,0.000177176,Luciferase-like monooxygenase
+Pentapeptide_4,-0.041562194,1.02e-05,0.000179712,Pentapeptide repeats (9 copies)
+Pentapeptide_3,-0.041550084,1.03e-05,0.000180507,Pentapeptide repeats (9 copies)
+PapD_C,-0.041539237,1.03e-05,0.000181194,"Pili assembly chaperone PapD, C-terminal domain"
+Polysacc_synt_2,-0.041482275,1.06e-05,0.000186045,Polysaccharide biosynthesis protein
+Trns_repr_metal,-0.041473523,1.06e-05,0.000186561,Metal-sensitive transcriptional repressor
+SBP_bac_6,-0.041373007,1.12e-05,0.000195673,Bacterial extracellular solute-binding protein
+SprT-like,-0.041358154,1.13e-05,0.000196801,SprT-like family
+BCCT,-0.041336336,1.14e-05,0.00019861,"BCCT, betaine/carnitine/choline family transporter"
+ApbA,-0.041244834,1.19e-05,0.000207368,Ketopantoate reductase PanE/ApbA
+RepB,-0.041228848,1.2e-05,0.000208675,RepB plasmid partitioning protein
+DUF3150,-0.041170742,1.23e-05,0.000214342,Protein of unknown function (DUF3150)
+APH_6_hur,-0.041158968,1.24e-05,0.00021525,Aminoglycoside/hydroxyurea antibiotic resistance kinase
+PRK,-0.041105847,1.27e-05,0.000220358,Phosphoribulokinase / Uridine kinase family
+MCPsignal,-0.041104575,1.27e-05,0.000220358,Methyl-accepting chemotaxis protein (MCP) signalling domain
+HTH_6,-0.041062799,1.3e-05,0.000224452,"Helix-turn-helix domain, rpiR family"
+ROK,-0.041060521,1.3e-05,0.000224452,ROK family
+UPF0020,-0.040994841,1.34e-05,0.000231375,"RMKL-like, methyltransferase domain"
+PilM,-0.04096531,1.36e-05,0.000234361,PilM
+Beta_elim_lyase,-0.040931281,1.39e-05,0.000237902,Beta-eliminating lyase
+Thiolase_N,-0.040778755,1.49e-05,0.000255724,"Thiolase, N-terminal domain"
+Fructosamin_kin,-0.04071021,1.54e-05,0.000263926,Fructosamine kinase
+Peptidase_S49,-0.040697957,1.55e-05,0.000265095,Peptidase family S49
+Mu-transpos_C,-0.040661571,1.58e-05,0.000269381,"Mu transposase, C-terminal"
+HTH_Crp_2,-0.040636902,1.6e-05,0.000271947,Crp-like helix-turn-helix domain
+Glyoxalase_4,-0.040635726,1.6e-05,0.000271947,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+TauE,-0.04060884,1.62e-05,0.00027508,Sulfite exporter TauE/SafE
+NIT,0.040599009,1.63e-05,0.000275976,Nitrate and nitrite sensing
+HipA_C,-0.040592566,1.63e-05,0.000276426,HipA-like C-terminal domain
+ATPgrasp_ST,-0.040577052,1.64e-05,0.000278085,Sugar-transfer associated ATP-grasp
+Aminotran_3,-0.040511959,1.7e-05,0.000286491,Aminotransferase class-III
+DnaJ,-0.040441971,1.75e-05,0.000295831,DnaJ domain
+Trypsin_2,-0.040409049,1.78e-05,0.000300062,Trypsin-like peptidase domain
+DUF1153,-0.040406206,1.78e-05,0.000300062,Protein of unknown function (DUF1153)
+DUF3085,-0.040344873,1.84e-05,0.000308543,Protein of unknown function (DUF3085)
+Chromate_transp,-0.040319402,1.86e-05,0.000311568,Chromate transporter
+ABM,-0.040318365,1.86e-05,0.000311568,Antibiotic biosynthesis monooxygenase
+HxlR,-0.040286791,1.89e-05,0.000315841,HxlR-like helix-turn-helix
+DegT_DnrJ_EryC1,-0.040270473,1.9e-05,0.000317849,DegT/DnrJ/EryC1/StrS aminotransferase family
+M20_dimer,-0.040216614,1.95e-05,0.000325645,Peptidase dimerisation domain
+SIR2_2,-0.040154707,2.01e-05,0.000334902,SIR2-like domain
+C-C_Bond_Lyase,-0.040123934,2.04e-05,0.00033935,C-C_Bond_Lyase of the TIM-Barrel fold
+Clp_N,-0.040106763,2.06e-05,0.000341639,"Clp amino terminal domain, pathogenicity island component"
+Acyl-CoA_dh_N,-0.039932986,2.24e-05,0.00037046,"Acyl-CoA dehydrogenase, N-terminal domain"
+Peptidase_S8,-0.039910837,2.26e-05,0.000373303,Subtilase family
+Antibiotic_NAT,-0.039910319,2.26e-05,0.000373303,Aminoglycoside 3-N-acetyltransferase
+Acyl-CoA_dh_M,-0.039907739,2.26e-05,0.000373303,"Acyl-CoA dehydrogenase, middle domain"
+NMT1_2,-0.039875678,2.3e-05,0.000378465,NMT1-like family
+RHH_5,-0.039863197,2.31e-05,0.000380162,"CopG-like RHH_1 or ribbon-helix-helix domain, RHH_5"
+KorB,-0.039849207,2.33e-05,0.000382082,KorB domain
+EcoRII-C,-0.039846507,2.33e-05,0.000382082,EcoRII C terminal
+AA_permease_2,-0.039799462,2.38e-05,0.000390109,Amino acid permease
+PAP2,-0.039748872,2.44e-05,0.000398963,PAP2 superfamily
+PGM_PMM_IV,-0.039723265,2.47e-05,0.000403234,"Phosphoglucomutase/phosphomannomutase, C-terminal domain"
+UTRA,-0.03968828,2.51e-05,0.000409353,UTRA domain
+Trypsin,-0.039614454,2.6e-05,0.000423218,Trypsin
+ATP-synt_ab,-0.039601945,2.61e-05,0.000425112,"ATP synthase alpha/beta family, nucleotide-binding domain"
+Acyl-CoA_dh_2,-0.03955087,2.68e-05,0.000434816,"Acyl-CoA dehydrogenase, C-terminal domain"
+DUF6012,-0.039538507,2.69e-05,0.000436731,Family of unknown function (DUF6012)
+Na_H_Exchanger,-0.039520785,2.71e-05,0.000439757,"Sodium/hydrogen exchanger, transmembrane"
+cNMP_binding,-0.039516436,2.72e-05,0.000440037,Cyclic nucleotide-binding domain
+OB_MalK,-0.039501128,2.74e-05,0.000442585,MalK OB fold domain
+FitA-like_RHH,-0.039491566,2.75e-05,0.000443951,"Antitoxin FitA-like, ribbon-helix-helix"
+DinI,-0.039480253,2.77e-05,0.000445687,DinI-like family
+PTS_EIIC,-0.039434664,2.83e-05,0.000454668,"Phosphotransferase system, EIIC"
+NERD,-0.039411436,2.86e-05,0.000458996,Nuclease-related domain
+NMT1_3,-0.039405811,2.87e-05,0.000459485,NMT1-like family
+HD,-0.039403213,2.87e-05,0.000459485,HD domain
+Band_7,-0.039383755,2.89e-05,0.000463041,SPFH domain / Band 7 family
+Sigma70_ECF,-0.039332071,2.97e-05,0.0004737,ECF sigma factor
+ADH_Fe_C,-0.039223054,3.12e-05,0.000497712,"Fe-containing alcohol dehydrogenase family, C-terminal"
+HTH_Tnp_Mu_2,-0.039181737,3.18e-05,0.000506676,"Mu DNA binding, I gamma subdomain"
+FecR,-0.039175415,3.19e-05,0.000507467,FecR protein
+AA_permease,-0.039123132,3.27e-05,0.000519237,Amino acid permease
+AsnC_trans_reg,-0.03911037,3.29e-05,0.000521606,Lrp/AsnC ligand binding domain
+Cation_efflux,-0.039091778,3.32e-05,0.000525406,Cation efflux family
+Bgal_small_N,-0.039080664,3.33e-05,0.000527399,Beta galactosidase small chain
+Big_13,-0.039058877,3.37e-05,0.000532028,Bacterial Ig-like domain
+ATPgrasp_Ter,-0.039047916,3.38e-05,0.000534009,ATP-grasp in the biosynthetic pathway with Ter operon
+PhyR_sigma-like,-0.039010259,3.44e-05,0.00054267,"Response regulator PhyR, sigma-like domain"
+Fer4_12,-0.038972233,3.51e-05,0.00055156,Fe-4S single cluster domain
+NA-iREase1,-0.038859604,3.69e-05,0.000580252,NACHT-associated inactive Restriction Endonuclease 1
+Acyl-CoA_dh_1,-0.038786292,3.82e-05,0.000599397,"Acyl-CoA dehydrogenase, C-terminal domain"
+RecA,-0.038747745,3.89e-05,0.000609309,recA bacterial DNA recombination protein
+PapC_C,-0.03871711,3.94e-05,0.000617125,PapC C-terminal domain
+LacZ_4,-0.03869627,3.98e-05,0.000622227,"Beta-galactosidase, domain 4"
+GST_C_2,-0.038682532,4.01e-05,0.000625323,"Glutathione S-transferase, C-terminal domain"
+LD_SV2,-0.038624002,4.12e-05,0.000641502,SV2A/B/C luminal domain
+Fer4_7,-0.038559602,4.24e-05,0.00065985,Fe-4S dicluster domain
+T4SS_pilin,-0.03850559,4.35e-05,0.000675473,Type IV secretion system pilin
+Copine,-0.038479712,4.4e-05,0.000682603,Copine
+Fer4_10,-0.038442093,4.47e-05,0.000693518,Fe-4S dicluster domain
+PsiE,-0.038426015,4.51e-05,0.000697697,Phosphate-starvation-inducible E family
+Big_3_3,-0.038397849,4.57e-05,0.000705786,Bacterial Ig-like domain (group 3)
+DUF4165,-0.038370018,4.62e-05,0.000713856,Domain of unknown function (DUF4165)
+NBD_SMAX1,-0.038297676,4.78e-05,0.000736815,SMAX1 nucleotide binding domain
+DUF4236,-0.038254087,4.87e-05,0.000750585,Protein of unknown function (DUF4236)
+PIN7,-0.038195758,5.01e-05,0.000769185,PIN domain
+TPP_enzyme_C,-0.038194413,5.01e-05,0.000769185,"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"
+HemolysinCabind,-0.038172143,5.06e-05,0.000775976,RTX calcium-binding nonapeptide repeat (4 copies)
+GST_C,-0.038158581,5.09e-05,0.000779735,"Glutathione S-transferase, C-terminal domain"
+FMO-like,-0.038138196,5.14e-05,0.000785942,Flavin-binding monooxygenase-like
+Glyoxalase_6,-0.038133705,5.15e-05,0.000786502,Glyoxalase-like domain
+ANF_receptor,-0.038114138,5.19e-05,0.000792468,Receptor family ligand binding region
+TetR_C_11,-0.038087627,5.26e-05,0.000800995,"Tetracyclin repressor-like, C-terminal domain"
+Fer4_9,-0.038014586,5.43e-05,0.00082685,Fe-4S dicluster domain
+Big_3_2,-0.037991874,5.49e-05,0.000834291,Bacterial Ig-like domain
+MFS_MOT1,-0.037938176,5.63e-05,0.000853668,Molybdate transporter of MFS superfamily
+CSD,-0.037811635,5.96e-05,0.00090263,'Cold-shock' DNA-binding domain
+NAD_binding_11,-0.037771675,6.06e-05,0.00091781,NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase
+NUDIX,-0.037733184,6.17e-05,0.000932614,NUDIX domain
+CobT_C,-0.037724247,6.19e-05,0.000935143,Cobalamin biosynthesis protein CobT VWA domain
+Phage_CI_repr,-0.037712064,6.23e-05,0.000939048,Bacteriophage CI repressor helix-turn-helix domain
+Replicase,0.037669226,6.35e-05,0.000956041,Replicase family
+Kdo,-0.037641168,6.43e-05,0.000966892,Lipopolysaccharide kinase (Kdo/WaaP) family
+MR_MLE_C,-0.037637277,6.44e-05,0.00096732,Enolase C-terminal domain-like
+DUF1664,-0.037603628,6.54e-05,0.000980748,Protein of unknown function (DUF1664)
+ketoacyl-synt,-0.037576564,6.62e-05,0.000991424,"Beta-ketoacyl synthase, N-terminal domain"
+DUF4880,-0.037552922,6.69e-05,0.001000675,Domain of unknown function (DUF4880)
+Acyl_transf_3,-0.037514346,6.81e-05,0.001016779,Acyltransferase domain
+Peptidase_M24,-0.037493168,6.87e-05,0.001025124,Metallopeptidase family M24
+Exonuc_VII_L,-0.037482397,6.9e-05,0.00102874,"Exonuclease VII, large subunit"
+VWA_3,-0.037478458,6.92e-05,0.001029223,von Willebrand factor type A domain
+OsmC,-0.037467027,6.95e-05,0.00103316,OsmC-like protein
+BCA_ABC_TP_C,-0.037445791,7.02e-05,0.001041663,Branched-chain amino acid ATP-binding cassette transporter
+PALP,-0.037433071,7.06e-05,0.001046248,Pyridoxal-phosphate dependent enzyme
+Sacchrp_dh_NADP,-0.037426849,7.08e-05,0.001047811,Saccharopine dehydrogenase NADP binding domain
+MobB,-0.037416223,7.11e-05,0.001050948,Molybdopterin guanine dinucleotide synthesis protein B
+PP2C_2,-0.037414401,7.12e-05,0.001050948,Protein phosphatase 2C
+FecR_C,-0.037377153,7.24e-05,0.001067185,"FecR, C-terminal"
+TerD,-0.037367711,7.27e-05,0.001070317,TerD domain
+DUF2254,-0.037329263,7.39e-05,0.001087417,Predicted membrane protein (DUF2254)
+PP-binding,-0.037208356,7.8e-05,0.001146007,Phosphopantetheine attachment site
+Mga,-0.037171454,7.93e-05,0.001163445,Mga helix-turn-helix domain
+TetR_C_13_2,-0.037163651,7.96e-05,0.001165994,"Transcriptional regulator LmrA/YxaF-like, C-terminal domain"
+STN,-0.037130123,8.08e-05,0.00118195,Secretin and TonB N terminus short domain
+Couple_hipA,-0.037110538,8.15e-05,0.001190739,HipA N-terminal domain
+PCMT,-0.037026616,8.45e-05,0.001234216,Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+Phage_int_M,-0.036953977,8.73e-05,0.001272836,Phage integrase central domain
+RadC,-0.036943111,8.77e-05,0.001277337,RadC-like JAB domain
+Ni_hydr_CYTB,-0.036917929,8.87e-05,0.001289971,Prokaryotic cytochrome b561
+GmrSD_C,-0.036847277,9.15e-05,0.001328597,"GmrSD restriction endonucleases, C-terminal domain"
+UDPG_MGDP_dh_N,-0.036845218,9.16e-05,0.001328597,"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"
+PG_binding_1,-0.036792021,9.38e-05,0.001358334,Putative peptidoglycan binding domain
+rva_4,-0.03676821,9.47e-05,0.001370895,Integrase core domain
+Fer4,-0.03671857,9.68e-05,0.001398701,Fe-4S binding domain
+DUF7706,-0.036716751,9.69e-05,0.001398701,Family of unknown function (DUF7706)
+Thioesterase,-0.036671239,9.89e-05,0.001425104,Thioesterase domain
+DUF4440,-0.036616933,0.000101233,0.001456658,Domain of unknown function (DUF4440)
+Fer4_2,-0.03661552,0.000101295,0.001456658,Fe-4S binding domain
+AC_1,-0.036538425,0.000104767,0.001504709,Autochaperone Domain Type 1
+Rv2179c-like,-0.036526233,0.000105327,0.001510754,'-5' exoribonuclease Rv2179c-like domain
+Acetyltransf_9,-0.036519296,0.000105646,0.001510754,Acetyltransferase (GNAT) domain
+Terminase_3,-0.036518288,0.000105692,0.001510754,Phage terminase large subunit
+IMPDH,-0.036517861,0.000105712,0.001510754,IMP dehydrogenase / GMP reductase domain
+PDZ_6,-0.036478107,0.000107562,0.001535283,PDZ domain
+DUF736,-0.036468091,0.000108032,0.001540096,Protein of unknown function (DUF736)
+HTH_50,-0.036455377,0.000108633,0.001546743,Helix-turn-helix domain
+PRTase_2,-0.036448003,0.000108982,0.001549808,Phosphoribosyl transferase
+StiP,-0.036429803,0.00010985,0.001560221,Tellurite-like stress resistance cysteine protease StiP
+CobT,-0.036405202,0.000111033,0.001575084,Cobalamin biosynthesis protein CobT
+Abhydrolase_11,-0.036370038,0.000112745,0.001597403,Alpha/beta hydrolase domain
+vWA-TerF-like,-0.036366332,0.000112927,0.001598016,vWA found in TerF C terminus
+Lysozyme_like,-0.036345332,0.000113962,0.001610696,Lysozyme-like
+GCE_fung,-0.036330688,0.00011469,0.001618995,"Glucuronyl esterase, fungi"
+PELOTA_1,-0.036242237,0.000119178,0.001680297,PELOTA RNA binding domain
+SMODS,-0.036202744,0.000121235,0.001707213,Second Messenger Oligonucleotide or Dinucleotide Synthetase domain
+PDZ_2,-0.03618917,0.00012195,0.001715183,PDZ domain
+TRSP,-0.036176225,0.000122635,0.001722721,TRSP domain C terminus to PRTase_2
+Glrx-like,-0.03616525,0.000123219,0.001727764,Glutaredoxin-like domain (DUF836)
+TraF_2,-0.036163849,0.000123294,0.001727764,"F plasmid transfer operon, TraF, protein"
+TPR_11,-0.036060521,0.000128924,0.001804467,TPR repeat
+Metallophos_2,-0.036011511,0.000131678,0.001840783,Calcineurin-like phosphoesterase superfamily domain
+MIP,-0.035966085,0.000134281,0.001872836,Major intrinsic protein
+NodS,-0.03596582,0.000134296,0.001872836,Nodulation protein S (NodS)
+PGM_PMM_I,-0.035939721,0.000135813,0.001891706,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I"
+Dala_Dala_lig_C,-0.035925787,0.00013663,0.001900784,D-ala D-ala ligase C-terminus
+ANTAR,-0.035920579,0.000136936,0.001902751,ANTAR domain
+Fer4_8,-0.035849435,0.000141187,0.001959456,Fe-4S dicluster domain
+DUF903,0.035793105,0.00014464,0.002004973,Bacterial protein of unknown function (DUF903)
+HEAT_2,-0.035767663,0.000146226,0.002024521,HEAT repeats
+OMP_b-brl,-0.035735322,0.000148265,0.002050294,Outer membrane protein beta-barrel domain
+Acetyltransf_6,-0.035729116,0.00014866,0.002053287,Acetyltransferase (GNAT) domain
+PRiA4_ORF3,-0.035700996,0.000150459,0.002075654,Plasmid pRiA4b ORF-3-like protein
+ANAPC3,-0.035695424,0.000150818,0.002077256,"Anaphase-promoting complex, cyclosome, subunit 3"
+MR_MLE_N,-0.035693605,0.000150936,0.002077256,"Mandelate racemase / muconate lactonizing enzyme, N-terminal domain"
+Regulator_TrmB,-0.035674364,0.000152182,0.002091918,Archaeal transcriptional regulator TrmB
+Shikimate_DH,-0.035652911,0.000153584,0.00210867,Shikimate / quinate 5-dehydrogenase
+WGR,-0.035646678,0.000153993,0.002111778,WGR domain
+p450,-0.035626317,0.000155338,0.002127689,Cytochrome P450
+PTS_EIIB,-0.035613254,0.000156207,0.002137049,"phosphotransferase system, EIIB"
+Beta-prop_EML_2,-0.035599142,0.00015715,0.002147408,Echinoderm microtubule-associated protein second beta-propeller
+Ribonuc_red_lgC,-0.035580387,0.000158412,0.002162094,"Ribonucleotide reductase, barrel domain"
+Glyco_tranf_2_2,-0.035568035,0.000159249,0.00217094,Glycosyltransferase like family 2
+TonB_C,-0.035557676,0.000159953,0.002177973,Gram-negative bacterial TonB protein C-terminal
+DHDPS,-0.035534768,0.000161522,0.002196741,Dihydrodipicolinate synthetase family
+Ribonuc_red_sm,-0.035312325,0.000177527,0.002411567,"Ribonucleotide reductase, small chain"
+CMAS,-0.035228643,0.000183925,0.002495539,Mycolic acid cyclopropane synthetase
+SIS_2,-0.035168038,0.000188693,0.002557229,SIS domain
+Ribonuc_red_lgN,-0.035146618,0.000190406,0.002577414,"Ribonucleotide reductase, all-alpha domain"
+TPP_enzyme_M,-0.03513075,0.000191685,0.002591676,"Thiamine pyrophosphate enzyme, central domain"
+Ac45-VOA1_TM,-0.03511112,0.000193277,0.002610149,V0 complex accessory subunit Ac45/VOA1 transmembrane domain
+Cytochrom_C,-0.035099795,0.000194202,0.002619565,Cytochrome c
+TPR_17,-0.035096548,0.000194468,0.002620086,Tetratricopeptide repeat
+TPP_enzyme_N,-0.035079327,0.000195883,0.002635989,"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"
+OpuAC,-0.035076637,0.000196105,0.002635989,Substrate binding domain of ABC-type glycine betaine transport system
+Cupin_3,-0.035071545,0.000196526,0.002638571,EutQ-like cupin domain
+FMN_dh,-0.034994348,0.000203011,0.002722469,FMN-dependent dehydrogenase
+LysE,-0.034988701,0.000203493,0.002725766,LysE type translocator
+ESPR,-0.034977783,0.000204428,0.002735117,Extended Signal Peptide of Type V secretion system
+HAD_SAK_2,-0.034957103,0.000206211,0.002752637,HAD domain in Swiss Army Knife RNA repair proteins
+CPSase_L_D2,-0.034957055,0.000206215,0.002752637,"Carbamoyl-phosphate synthase L chain, ATP binding domain"
+DnaI_N,0.03492381,0.000209112,0.002788073,Primosomal protein DnaI N-terminus
+Rieske,-0.034916049,0.000209793,0.002793932,Rieske [2Fe-2S] domain
+TetR_C_6,-0.034834992,0.000217038,0.002887086,"BetI-type transcriptional repressor, C-terminal"
+Alp7A_like_C,-0.034813262,0.00021902,0.002910093,Alp7A C-terminal domain
+Peptidase_S6,-0.034800774,0.000220167,0.002921961,Immunoglobulin A1 protease
+FhuF,-0.034716821,0.000228023,0.003022744,Ferric iron reductase FhuF-like transporter
+Autoind_bind,-0.034707,0.000228959,0.003031667,Autoinducer binding domain
+CarboxypepD_reg,-0.034687789,0.0002308,0.003049349,Carboxypeptidase regulatory-like domain
+S6PP,-0.034687552,0.000230823,0.003049349,Sucrose-6F-phosphate phosphohydrolase
+Molydop_binding,-0.034679952,0.000231555,0.003055523,Molydopterin dinucleotide binding domain
+Aldolase_II,-0.034618839,0.000237524,0.003130702,Class II Aldolase and Adducin N-terminal domain
+NAD_binding_1,-0.034562547,0.000243149,0.003201188,Oxidoreductase NAD-binding domain
+Cytochrome_CBB3,-0.03454339,0.000245092,0.003223085,"Cytochrome C oxidase, cbb3-type, subunit III"
+Molybdopterin,-0.034540559,0.00024538,0.003223202,Molybdopterin oxidoreductase
+RHH_10,-0.034531102,0.000246346,0.003232202,Ribbon-helix-helix protein
+HATPase_c_3,-0.034521355,0.000247345,0.003240615,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+GMC_oxred_C,-0.034519365,0.000247549,0.003240615,GMC oxidoreductase
+WYL,-0.034494076,0.00025016,0.003271084,WYL domain
+4HBT,-0.034482594,0.000251354,0.003282976,Thioesterase superfamily
+N_methyl,-0.034400206,0.00026008,0.003393102,Prokaryotic N-terminal methylation motif
+Beta-sol_PIC_HAP1_IgA0_2nd,-0.034389024,0.000261286,0.003404983,PIC/HAP1/IgA0 second beta-solenoid repeat region
+Mrr_N,-0.034321701,0.000268658,0.003497103,Mrr N-terminal domain
+ECH_1,-0.034318037,0.000269065,0.003498449,Enoyl-CoA hydratase/isomerase
+TerY_C,-0.034300267,0.000271046,0.003520237,TerY-C metal binding domain
+CRCB,-0.034279687,0.000273357,0.003546262,"CrcB-like protein, Camphor Resistance (CrcB)"
+Rhodanese,-0.034240192,0.000277844,0.003600427,Rhodanese-like domain
+AAA_17,-0.034226688,0.000279395,0.003616451,AAA domain
+DUF6884,-0.034213656,0.000280898,0.003631837,Family of unknown function (DUF6884)
+Fer4_6,-0.034210573,0.000281255,0.003632378,Fe-4S binding domain
+Ferritin,-0.034202173,0.000282229,0.003640885,Ferritin-like domain
+NAD_Gly3P_dh_N,-0.034175392,0.000285357,0.003677118,NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus
+Cupin_6,-0.034150595,0.000288282,0.003710661,Cupin
+GMC_oxred_N,-0.034144654,0.000288987,0.003715587,GMC oxidoreductase
+DUF6904,-0.034139619,0.000289585,0.003719139,Domain of unknown function (DUF6904)
+DUF3800,-0.03412322,0.000291543,0.00374012,Protein of unknown function (DUF3800)
+DUF2813,-0.034065986,0.000298474,0.003824779,Protein of unknown function (DUF2813)
+CBM_48,-0.034034716,0.000302326,0.003869834,Carbohydrate-binding module 48 (Isoamylase N-terminal domain)
+PilI,-0.0340041,0.000306142,0.003914337,Plasmid conjugative transfer protein PilI
+Amidase,-0.033982981,0.0003088,0.003943956,Amidase
+Phage_lysozyme,-0.033956201,0.000312202,0.003982998,Phage lysozyme
+FMN_bind,-0.033885851,0.000321308,0.004094636,FMN-binding domain
+CBS,-0.033872558,0.000323056,0.004112371,CBS domain
+RVT_N,-0.033867873,0.000323675,0.004115699,N-terminal domain of reverse transcriptase
+Bac_RepA_C,-0.033816512,0.000330526,0.004198184,Replication initiator protein A C-terminal domain
+DoxX,-0.033682765,0.000349008,0.00442806,DoxX
+Peptidase_M28,-0.033678874,0.00034956,0.00443019,Peptidase family M28
+CSS-motif,-0.033656232,0.000352787,0.004466189,CSS motif domain associated with EAL
+KAP_NTPase,-0.033606218,0.000360016,0.004552704,KAP family P-loop domain
+PTS_IIB,-0.033503521,0.000375296,0.004740728,"PTS system, Lactose/Cellobiose specific IIB subunit"
+Creatinase_N,-0.033493807,0.000376772,0.004754168,Creatinase/Prolidase N-terminal domain
+ABC2_membrane,-0.033451198,0.000383312,0.004831401,ABC-2 type transporter
+PAP2_3,-0.033427181,0.000387044,0.004873122,PAP2 superfamily
+Apolipoprotein,-0.033393254,0.000392375,0.004934854,Apolipoprotein A1/A4/E domain
+Rad17,-0.03332376,0.000403509,0.005069357,Rad17 P-loop domain
+CobW_C,-0.033294102,0.00040835,0.005124594,Cobalamin synthesis protein cobW C-terminal domain
+PRD,-0.033280022,0.000410667,0.005148072,PRD domain
+TPR_7,-0.03325146,0.000415405,0.005201815,Tetratricopeptide repeat
+AbiEii,-0.033227574,0.000419407,0.00524623,"Nucleotidyl transferase AbiEii toxin, Type IV TA system"
+Glyco_trans_2_3,-0.033161537,0.000430659,0.005381135,Glycosyl transferase family group 2
+Glyco_trans_1_2,-0.033147823,0.00043303,0.005404913,Glycosyl transferase-like
+Hexapep_GlmU,-0.033098802,0.000441608,0.005506018,"GlmU-like, C-terminal hexapeptide"
+Ndr,-0.033091692,0.000442865,0.00551573,Ndr family
+ATP-cone,-0.032971401,0.000464648,0.005780783,ATP cone domain
+SecD_SecF_C,-0.032906306,0.000476848,0.005926178,"Protein export membrane protein SecD/SecF, C-terminal"
+DNA_ligase_A_C,-0.03288966,0.000480016,0.005955741,ATP dependent DNA ligase C terminal region
+PNPOx_N,-0.032888381,0.00048026,0.005955741,Pyridoxamine 5'-phosphate oxidase
+Phage_min_tail,-0.03287944,0.00048197,0.00597053,Phage minor tail protein
+IucA_IucC,-0.032854288,0.000486812,0.006024038,IucA / IucC family
+Phage_base_V,-0.032839163,0.000489745,0.006053839,Type VI secretion system/phage-baseplate injector OB domain
+MarR,-0.03283568,0.000490423,0.006055726,MarR family
+TniQ,-0.032807364,0.000495966,0.006117621,TniQ
+FNIII-A_GpJ,-0.032789415,0.00049951,0.006154749,"Tip attachment protein J,FNIII-A domain"
+FAA_hydrolase,-0.03278093,0.000501193,0.006168901,Fumarylacetoacetate (FAA) hydrolase C-terminal
+NMO,-0.032768435,0.000503682,0.006192924,Nitronate monooxygenase
+Phage_tail_L,-0.032751717,0.00050703,0.006227449,Phage minor tail protein L
+ECH_2,-0.032725655,0.00051229,0.006285361,Enoyl-CoA hydratase/isomerase
+5_3_exonuc,-0.032699345,0.000517652,0.00634024,"'-3' exonuclease, C-terminal SAM fold"
+Hydrolase_like,-0.032698318,0.000517862,0.00634024,HAD-hyrolase-like
+Glucosaminidase,-0.03267334,0.000523003,0.006396388,Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+Fer4_21,-0.032635833,0.000530812,0.006485014,Fe-4S dicluster domain
+Hfq,-0.032619278,0.000534293,0.006520637,Hfq protein
+TolA,-0.032602554,0.000537831,0.00655688,TolA C-terminal
+DsbD_2,-0.032583222,0.000541948,0.006595736,Cytochrome C biogenesis protein transmembrane region
+5_3_exonuc_N,-0.032582222,0.000542162,0.006595736,"'-3' exonuclease, N-terminal resolvase-like domain"
+TetR_C_7,-0.032494646,0.000561191,0.006815592,"AefR-like transcriptional repressor, C-terminal domain"
+BOF,-0.032493627,0.000561416,0.006815592,Bacterial OB fold (BOF) protein
+Ble-like_N,-0.032487925,0.000562677,0.006823713,Bleomycin resistance protein-like N-terminal
+DUF5592,-0.032398047,0.000582901,0.007061548,Family of unknown function (DUF5592)
+DNAG_N,-0.032387617,0.000585291,0.007083066,"DNA primase catalytic core, N-terminal domain"
+Nitroreductase,-0.032316364,0.000601866,0.007269804,Nitroreductase family
+ZnuA,-0.032315869,0.000601982,0.007269804,Zinc-uptake complex component A periplasmic
+EcoR124_C,-0.032294856,0.000606954,0.007322176,Type I restriction and modification enzyme - subunit R C terminal
+HTH_35,-0.03229013,0.000608077,0.007328063,Winged helix-turn-helix DNA-binding
+AmiR_N,-0.032284498,0.000609419,0.007336561,"AmiR, N-terminal"
+HTH_Tnp_IS630,-0.032243351,0.000619302,0.007447769,Transposase
+MFS_4,-0.032157995,0.000640281,0.007692048,Uncharacterised MFS-type transporter YbfB
+FAD_binding_6,-0.032141871,0.000644318,0.007732488,Oxidoreductase FAD-binding domain
+SpaA,-0.032118865,0.000650118,0.007793987,Prealbumin-like fold domain
+OmpA,-0.032112368,0.000651765,0.007805617,OmpA family
+TM2,0.032102776,0.000654204,0.007826692,TM2 domain
+ScsC_N,-0.032093377,0.000656601,0.007847236,Copper resistance protein ScsC N-terminal domain
+Borrelia_orfA,-0.032071272,0.000662272,0.007906819,Borrelia ORF-A
+Secretin_N,-0.032058738,0.000665508,0.007937235,Bacterial type II/III secretion system short domain
+ABC2_membrane_3,-0.032055922,0.000666237,0.007937721,ABC-2 family transporter protein
+Replic_Relax,-0.031974165,0.000687729,0.008185321,Replication-relaxation
+RNase_H_2,-0.031940659,0.000696721,0.008283798,RNase_H superfamily
+Cag12,-0.031937563,0.000697558,0.008285204,Cag pathogenicity island protein Cag12
+Phage-tail_3,-0.031931613,0.000699168,0.008295784,Putative phage tail protein
+Thioredoxin_7,-0.031928952,0.000699889,0.008295805,Thioredoxin-like
+Asp_Glu_race,-0.031904809,0.000706464,0.008362378,Asp/Glu/Hydantoin racemase
+Abhydrolase_4,-0.031903011,0.000706956,0.008362378,TAP-like protein
+Abhydrolase_2,-0.031857827,0.000719423,0.008501133,Phospholipase/Carboxylesterase
+Na_H_antiport_1,-0.03175813,0.000747658,0.008825732,Na+/H+ antiporter 1
+Thiolase_C,-0.031645889,0.000780675,0.009192997,"Thiolase, C-terminal domain"
+Fer4_17,-0.031643712,0.000781328,0.009192997,Fe-4S dicluster domain
+NicO,-0.031641778,0.000781909,0.009192997,High-affinity nickel-transport protein
+FmdA_AmdA,-0.031639738,0.000782523,0.009192997,Acetamidase/Formamidase family
+Fer4_16,-0.031638963,0.000782756,0.009192997,Fe-4S double cluster binding domain
+4HB_MCP_1,-0.031623834,0.00078732,0.009237189,Four helix bundle sensory module for signal transduction
+SH3_13,-0.031598058,0.000795152,0.009319603,ATP-dependent RecD-like DNA helicase SH3 domain
+TOBE,-0.031585296,0.000799057,0.009355858,TOBE domain
+gp32,-0.031572092,0.000803115,0.009393839,gp32 DNA binding protein like
+Lip_A_acyltrans,-0.031452825,0.000840651,0.009822926,Bacterial lipid A biosynthesis acyltransferase
+CHAP,-0.03143615,0.000846027,0.009875733,CHAP domain
+GP7,-0.031432083,0.000847343,0.009881094,Major capsid protein GP7
+Glyco_trans_4_2,-0.031416349,0.000852451,0.009924296,Glycosyl transferase 4-like
+DUF6651,-0.031415376,0.000852768,0.009924296,Family of unknown function (DUF6651)
+Phage_tail_terminator_6,-0.031410998,0.000854195,0.009930882,Bacteriophage tail terminator protein
+PLDc,-0.031287058,0.000895528,0.010400927,Phospholipase D Active site motif
+Oxidored_molyb,-0.031268971,0.000901712,0.010462216,Oxidoreductase molybdopterin binding domain
+RdgC,-0.031261928,0.000904131,0.010479741,"Putative exonuclease, RdgC"
+SnoaL,-0.031239658,0.000911819,0.010553436,SnoaL-like polyketide cyclase
+Cupin_1,-0.031238216,0.000912319,0.010553436,Cupin
+ATP-grasp,-0.031183812,0.000931366,0.010762965,ATP-grasp domain
+Fimbrial,-0.031180789,0.000932435,0.010764533,Fimbrial protein
+Abhydrolase_5,-0.031170022,0.000936252,0.010797789,Alpha/beta hydrolase family
+FAD_binding_4,-0.031164808,0.000938105,0.010808358,FAD binding domain
+HTH_13,-0.031093506,0.000963797,0.01109328,HTH DNA binding domain
+Crp,-0.031090456,0.00096491,0.011095023,"Bacterial regulatory proteins, crp family"
+HerA_C,-0.031062058,0.000975334,0.011203709,Helicase HerA-like C-terminal
+DUF7577,0.031042595,0.000982538,0.011275231,Domain of unknown function (DUF7577)
+Cupin_7,-0.031006612,0.000995986,0.011418203,ChrR Cupin-like domain
+KORA,-0.030849235,0.001056833,0.01209562,TrfB plasmid transcriptional repressor
+NYN,-0.030848379,0.001057174,0.01209562,NYN domain
+PorP_SprF,-0.03083548,0.001062312,0.012142362,Type IX secretion system membrane protein PorP/SprF
+KARI_N,-0.030828716,0.001065015,0.012161208,"Acetohydroxy acid isomeroreductase, NADPH-binding domain"
+HEAT,-0.030802972,0.001075364,0.012264646,HEAT repeat
+Plasmid_parti,-0.0308009,0.001076201,0.012264646,Putative plasmid partition protein
+MaoC_dehydratas,-0.030775598,0.001086469,0.012369442,MaoC like domain
+Flavin_Reduct,-0.030750789,0.001096625,0.012472761,Flavin reductase like domain
+OB_RNB,-0.030727863,0.001106089,0.012568003,Ribonuclease B OB domain
+ORC-CDC6-like,-0.030721658,0.001108663,0.012584851,ORC-CDC6-like
+Big_2,-0.030704394,0.001115854,0.01265403,Bacterial Ig-like domain (group 2)
+Abi_2,-0.03068031,0.001125959,0.012734055,Abi-like protein
+DctM,-0.030680251,0.001125984,0.012734055,"Tripartite ATP-independent periplasmic transporter, DctM component"
+Fer2_4,-0.030679682,0.001126224,0.012734055,Fe-2S iron-sulfur cluster binding domain
+ACT,-0.030636548,0.001144536,0.012928435,ACT domain
+Ank_2,-0.030631888,0.001146531,0.012937968,Ankyrin repeats (3 copies)
+TPR_10,-0.030629339,0.001147623,0.012937968,Tetratricopeptide repeat
+DUF3701,-0.030591737,0.001163852,0.013108106,Phage integrase protein
+HTH_12,-0.030505568,0.001201844,0.013522795,Ribonuclease R winged-helix domain
+Terminase_6C,-0.030501104,0.001203843,0.013532085,Terminase RNaseH-like domain
+DNA_pol3_delta,-0.030497237,0.001205577,0.013538383,"DNA polymerase III, delta subunit"
+TMP_3,-0.030398201,0.001250784,0.014032386,Tape measure protein
+Penicillinase_R,-0.030391944,0.001253693,0.014051347,Penicillinase repressor
+Dimerisation2-like_dom,0.030381604,0.001258512,0.014091668,Dimerisation2-like domain
+Glyco_hydro_1,-0.030341097,0.001277557,0.014291041,Glycosyl hydrolase family 1
+PK_Tyr_Ser-Thr,-0.030332267,0.001281744,0.014323985,Protein tyrosine and serine/threonine kinase
+CxxCxxCC,-0.030258105,0.001317411,0.014708327,Putative zinc- or iron-chelating domain
+SBD_N,-0.030237827,0.001327322,0.014804644,Sugar-binding N-terminal domain
+PaaX,-0.030222338,0.001334938,0.014866487,PaaX-like protein
+RdRP_1,-0.030221312,0.001335444,0.014866487,Viral RNA-dependent RNA polymerase
+DUF226,-0.030189958,0.001350991,0.015025051,Borrelia family of unknown function DUF226
+Cas3-like_C_2,-0.03018537,0.00135328,0.015036008,"CRISPR-associated nuclease/helicase Cas3, C-terminal"
+TPR_6,-0.030177184,0.001357373,0.015066967,Tetratricopeptide repeat
+SH3_3,-0.030162809,0.001364587,0.015132484,Bacterial SH3 domain
+PTS_EIIA_2,-0.030158496,0.001366759,0.015142006,"Phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2"
+DUF1776,-0.030153868,0.001369092,0.015153301,Fungal family of unknown function (DUF1776)
+GST_C_3,-0.030148258,0.001371926,0.015170111,"Glutathione S-transferase, C-terminal domain"
+OCD_Mu_crystall,-0.030109163,0.001391825,0.0153754,Ornithine cyclodeaminase/mu-crystallin family
+HTH_PafC,-0.030099239,0.001396918,0.015416898,PafC helix-turn-helix domain
+Fer2_2,-0.030053907,0.001420404,0.015661107,[2Fe-2S] binding domain
+Acetyltransf_5,-0.029980714,0.001459092,0.016072314,Acetyltransferase (GNAT) domain
+ABC_tran_Xtn,-0.029936007,0.001483199,0.016322266,ABC transporter
+Fer2_3,-0.029919365,0.001492266,0.016406393,Fe-2S iron-sulfur cluster binding domain
+MoCoBD_2,-0.029882222,0.001512687,0.016599259,Molybdopterin cofactor-binding domain
+MoCoBD_1,-0.029882222,0.001512687,0.016599259,Molybdopterin cofactor-binding domain
+NBD_C,-0.029877388,0.001515364,0.016612823,Nucleotide-binding C-terminal domain
+SLH,-0.029873847,0.001517327,0.016618547,S-layer homology domain
+SAF,-0.029858932,0.001525623,0.016693554,SAF domain
+Tn7_TnsA-like_N,-0.029854288,0.001528214,0.016706062,TnsA-like endonuclease N terminal
+PrmA,-0.029841288,0.00153549,0.016769703,Ribosomal protein L11 methyltransferase (PrmA)
+Phage_Tail_Tip,-0.029835096,0.001538967,0.016791773,Bacteriophage tail tip fiber protein
+Ank_4,-0.029772659,0.001574433,0.017162506,Ankyrin repeats (many copies)
+Glyco_transf_21,-0.029769163,0.001576441,0.01716817,Glycosyl transferase family 21
+YqaJ,-0.029741117,0.001592634,0.017328159,YqaJ-like viral recombinase domain
+MAAL_C,-0.029736036,0.001595584,0.017343894,Methylaspartate ammonia-lyase C-terminus
+HTH_59,-0.029719293,0.001605341,0.017433516,Helix-turn-helix domain
+Glyco_hydro_32N,-0.029711033,0.001610174,0.017469557,Glycosyl hydrolases family 32 N-terminal domain
+PapB,-0.029702926,0.001614932,0.017500363,Adhesin biosynthesis transcription regulatory protein
+Microcin,-0.029701025,0.001616048,0.017500363,Colicin E1 (microcin) immunity protein
+TetR_C_24,-0.02966529,0.001637185,0.017712625,"Tetracyclin repressor-like, C-terminal domain"
+MqsA_antitoxin,-0.02964574,0.001648856,0.017818788,"Antitoxin component of bacterial toxin-antitoxin system, MqsA"
+Bep_C_terminal,-0.029643684,0.001650088,0.017818788,BID domain of Bartonella effector protein (Bep)
+FtsJ,-0.029620196,0.00166422,0.017954585,FtsJ-like methyltransferase
+UDG,-0.029608169,0.0016715,0.018016271,Uracil DNA glycosylase superfamily
+RTP,-0.029587192,0.001684267,0.018136931,Replication terminator protein
+HbpS-like,-0.029571175,0.001694075,0.018225533,Haem degrading protein HbpS-like
+NfeD1b_N,-0.029557041,0.001702774,0.018302046,"NfeD1b, N-terminal domain"
+BrkDBD,-0.029551447,0.001706229,0.01830928,Brinker DNA-binding domain
+TPR_MalT,-0.02955081,0.001706622,0.01830928,MalT-like TPR region
+FGGY_N,-0.029538927,0.001713983,0.018357086,"FGGY family of carbohydrate kinases, N-terminal domain"
+Amidohydro_2,-0.029538478,0.001714262,0.018357086,Amidohydrolase
+TIR_2,-0.029505448,0.001734878,0.018553202,TIR domain
+DUF1612,-0.02950399,0.001735793,0.018553202,Protein of unknown function (DUF1612)
+DctP,-0.029464863,0.001760522,0.018784125,"Bacterial extracellular solute-binding protein, family 7"
+Ketoacyl-synt_C,-0.029463616,0.001761315,0.018784125,"Beta-ketoacyl synthase, C-terminal domain"
+Transket_pyr,-0.029460369,0.001763383,0.018784125,"Transketolase, pyrimidine binding domain"
+Glyco_transf_5,-0.029456867,0.001765615,0.018784125,Starch synthase catalytic domain
+Fucose_pyrophosphorylase,-0.029454958,0.001766833,0.018784125,Fucose pyrophosphorylase domain
+NOV_C,-0.02945443,0.00176717,0.018784125,"Protein NO VEIN, C-terminal"
+YolD,-0.029395422,0.001805209,0.019170783,YolD-like protein
+FTR1,-0.029371326,0.001820957,0.019320236,Iron permease FTR1 family
+Alpha-amylase_C,-0.029354969,0.001831719,0.019416554,"Alpha amylase, C-terminal all-beta domain"
+Phage_int_SAM_5,-0.029344203,0.001838834,0.019474079,Phage integrase SAM-like domain
+GAF_3,-0.029310223,0.001861458,0.019695595,GAF domain
+Peptidase_S74,-0.029256289,0.001897894,0.020062707,Chaperone of endosialidase
+RraA-like,-0.029216382,0.001925275,0.02033351,Aldolase/RraA
+Sortase,-0.029212296,0.001928098,0.0203447,Sortase domain
+PDZ,-0.02920938,0.001930116,0.020347375,PDZ domain
+COesterase,-0.029172282,0.001955953,0.020600916,Carboxylesterase family
+peroxidase,-0.029164291,0.00196156,0.020641122,Peroxidase
+HTH_ParB,-0.029139185,0.001979271,0.02080851,HTH domain found in ParB protein
+HEAT_EZ,-0.029131374,0.001984811,0.020847748,HEAT-like repeat
+DUF2971,-0.029120716,0.001992394,0.02090835,Protein of unknown function (DUF2971)
+Dynamin_N,-0.029054538,0.002040074,0.021389246,Dynamin family
+Omptin,-0.029011041,0.00207198,0.021704036,Omptin family
+NAD_binding_3,-0.029007525,0.002074579,0.02171154,"Homoserine dehydrogenase, NAD binding domain"
+GlgB_N,-0.028981956,0.002093569,0.021890423,"alpha-1,4-glucan branching enzyme GlgB, N-terminal domain"
+Autoind_synth,-0.028959964,0.002110031,0.022042557,Autoinducer synthase
+Baculo_PEP_C,-0.028950328,0.00211728,0.022098271,"Baculovirus polyhedron envelope protein, PEP, C terminus"
+HTH_10,-0.028899201,0.00215613,0.022483409,HTH DNA binding domain
+FGGY_C,-0.028884306,0.002167571,0.022582294,"FGGY family of carbohydrate kinases, C-terminal domain"
+SMI1_KNR4,-0.028856558,0.002189033,0.02276968,SMI1 / KNR4 family (SUKH-1)
+PRA-PH,-0.028855949,0.002189506,0.02276968,Phosphoribosyl-ATP pyrophosphohydrolase
+Hydant_A_N,-0.028836425,0.002204726,0.022907302,Hydantoinase/oxoprolinase N-terminal region
+Transketolase_C,-0.028820976,0.002216838,0.023012417,"Transketolase, C-terminal domain"
+Ald_Xan_dh_C,-0.02875031,0.002273022,0.023531128,"Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain"
+Glyco_hydro_32C,-0.028746625,0.002275987,0.023531128,Glycosyl hydrolases family 32 C terminal
+TraC,-0.028746564,0.002276037,0.023531128,TraC-like protein
+DUF3854,-0.028745389,0.002276983,0.023531128,Domain of unknown function (DUF3854)
+ATP-grasp_3,-0.028744106,0.002278016,0.023531128,ATP-grasp domain
+GFA,-0.028742825,0.002279049,0.023531128,Glutathione-dependent formaldehyde-activating enzyme
+Phos_pyr_kin,-0.028710002,0.002305651,0.023784498,Phosphomethylpyrimidine kinase
+TPR_CcmH_CycH,-0.028697749,0.002315654,0.023866342,Cytochrome c-type biogenesis protein H TPR domain
+HlyC,-0.028694933,0.002317959,0.023868765,RTX toxin acyltransferase family
+EryCIII-like_C,-0.028682574,0.002328097,0.023951782,"Erythromycin biosynthesis protein CIII-like, C-terminal domain"
+TetR_C_41,-0.028666173,0.002341616,0.024069389,"Tetracyclin repressor-like, C-terminal domain"
+Thymidylat_synt,-0.028636171,0.00236653,0.02430382,Thymidylate synthase
+ANT,-0.028601313,0.002395782,0.024573097,Phage antirepressor protein KilAC domain
+Ank,-0.028599856,0.002397012,0.024573097,Ankyrin repeat
+ERCC3_RAD25_C,-0.028582176,0.002411981,0.024704593,ERCC3/RAD25/XPB C-terminal helicase
+SnoaL_3,-0.028575947,0.002417275,0.02472531,SnoaL-like domain
+Peptidase_A8,-0.028574753,0.002418291,0.02472531,Signal peptidase (SPase) II
+AbiEi_4,-0.028570738,0.002421711,0.024729502,"Transcriptional regulator, AbiEi antitoxin"
+Tape_meas_lam_C,-0.028569238,0.002422989,0.024729502,Lambda phage tail tape-measure protein (Tape_meas_lam_C)
+PKD,-0.028557802,0.002432759,0.024807256,PKD domain
+CorA,-0.028544854,0.002443863,0.02489847,CorA-like Mg2+ transporter protein
+Phosphodiest,-0.028541166,0.002447034,0.024908773,Type I phosphodiesterase / nucleotide pyrophosphatase
+LMWPc,-0.028538134,0.002449644,0.024913356,Low molecular weight phosphotyrosine protein phosphatase
+Flag1_repress,-0.028525449,0.002460591,0.025002641,Repressor of phase-1 flagellin
+MauE,-0.028497818,0.002484592,0.025224293,Methylamine utilisation protein MauE
+Cytochrom_B562,-0.028473249,0.002506112,0.025420397,Cytochrome b562
+LexA_DNA_bind,-0.028465503,0.002512932,0.025467177,LexA DNA binding domain
+DUF4238,-0.028434726,0.002540198,0.025720902,Protein of unknown function (DUF4238)
+AAA_lid_3,-0.028429884,0.002544512,0.025741982,AAA+ lid domain
+Molybdop_Fe4S4,-0.0284201,0.002553251,0.025807748,Molybdopterin oxidoreductase Fe4S4 domain
+DDE_5,-0.028398169,0.002572937,0.025983958,DDE superfamily endonuclease
+HpcH_HpaI,-0.028386202,0.002583737,0.026070204,HpcH/HpaI aldolase/citrate lyase
+HigB_toxin,-0.028376397,0.002592618,0.026136941,"HigB_toxin, RelE-like toxic component of a toxin-antitoxin system"
+Ank_5,-0.028370261,0.002598189,0.026170231,Ankyrin repeats (many copies)
+YkuD,-0.028352036,0.002614802,0.026314579,"L,D-transpeptidase catalytic domain"
+CAT,-0.028336753,0.002628807,0.026432457,Chloramphenicol acetyltransferase
+COX1,-0.028305144,0.002657992,0.026702631,Cytochrome C and Quinol oxidase polypeptide I
+HicA_toxin,-0.028277144,0.002684092,0.026941368,"HicA toxin of bacterial toxin-antitoxin,"
+DUF4198,-0.028258874,0.002701248,0.02706857,Domain of unknown function (DUF4198)
+HU-CCDC81_bac_2,-0.02825865,0.002701459,0.02706857,CCDC81-like prokaryotic HU domain 2
+Enolase_C,-0.028234341,0.002724443,0.027275176,"Enolase, C-terminal TIM barrel domain"
+Phosphorylase,-0.028223969,0.002734303,0.027350149,Carbohydrate phosphorylase
+CysA_C_terminal,-0.028215221,0.002742646,0.027409827,CysA C-terminal regulatory domain
+UDPGT,-0.028200981,0.002756276,0.027522189,UDP-glucoronosyl and UDP-glucosyl transferase
+FAD_binding_5,-0.028193896,0.002763079,0.027566256,FAD binding domain in molybdopterin dehydrogenase
+PMSR,-0.028178319,0.002778093,0.02769209,Peptide methionine sulfoxide reductase
+Na_sulph_symp,-0.028131875,0.002823301,0.028118417,Sodium:sulfate symporter transmembrane region
+Crescentin,-0.028121056,0.002833927,0.028199901,Crescentin protein
+Caudo_TAP,-0.028087238,0.002867381,0.02850819,"Caudovirales tail fibre assembly protein, lambda gpK"
+ZT_dimer,-0.028079282,0.002875303,0.028546793,Dimerisation domain of Zinc Transporter
+FtrD-like,-0.028078369,0.002876214,0.028546793,Membrane iron-sulfur containing protein FtrD-like
+Iron_transport,-0.028068216,0.002886355,0.028622818,Fe2+ transport protein
+Beta-prop_TEP1_C,-0.028021093,0.002933857,0.029068874,TEP-1 C-terminal beta-propeller
+TpcC,-0.028012599,0.002942494,0.029129433,Conjugative transposon protein TcpC
+4HBT_2,-0.027992531,0.002962994,0.029307214,Thioesterase-like superfamily
+SEC-C,-0.027957922,0.002998653,0.029630843,SEC-C motif
+TrfA,-0.027955801,0.003000852,0.029630843,TrfA protein
+HSDR_N_2,-0.027942385,0.003014789,0.029742997,Type I restriction enzyme R protein N terminus (HSDR_N)
+HisKA_3,-0.02793797,0.003019388,0.029762908,Histidine kinase
+DctQ,-0.027907823,0.003050967,0.030048512,"Tripartite ATP-independent periplasmic transporters, DctQ component"
+YadA_anchor,-0.027873358,0.003087437,0.030381755,YadA-like membrane anchor domain
+DUF6685,-0.027870371,0.003090617,0.03038711,Family of unknown function (DUF6685)
+RHS_repeat,-0.027847439,0.003115126,0.030597403,RHS Repeat
+NTPase_1,-0.027845402,0.003117311,0.030597403,NTPase
+Patatin,-0.027827393,0.003136695,0.030761483,Patatin-like phospholipase
+His_biosynth,-0.027803845,0.003162207,0.030985333,Histidine biosynthesis protein
+Fer4_4,-0.027795991,0.003170757,0.031042737,Fe-4S binding domain
+fn3,-0.027792708,0.003174338,0.031051437,Fibronectin type III domain
+TonB_2,-0.027785794,0.003181891,0.031098941,TonB C terminal
+His_Phos_2,-0.027775927,0.003192698,0.031178141,Histidine phosphatase superfamily (branch 2)
+Hydantoinase_B,-0.027768281,0.003201095,0.031207296,Hydantoinase B/oxoprolinase
+Hydant_A_C,-0.027768281,0.003201095,0.031207296,Hydantoinase/oxoprolinase C-terminal domain
+RTX_C,-0.027762964,0.003206946,0.03123793,RTX C-terminal domain
+PTS_EIIA_1,-0.027738659,0.003233818,0.031473101,"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"
+T2SSK,-0.027700069,0.003276905,0.031865549,"Type II secretion system (T2SS), protein K"
+Dimerisation,-0.027696898,0.003280468,0.031873328,Plant O-methyltransferase dimerisation domain
+DUF308,-0.027687735,0.003290786,0.031940491,Short repeat of unknown function (DUF308)
+RTX,-0.027685843,0.00329292,0.031940491,N-terminal domain in RTX protein
+GATase,-0.027666523,0.003314784,0.032125545,Glutamine amidotransferase class-I
+Methyltransf_2,-0.027622703,0.003364864,0.032583526,O-methyltransferase domain
+Tautomerase,-0.027566971,0.003429554,0.033182087,Tautomerase enzyme
+Methyltransf_32,-0.02755555,0.003442949,0.033269401,Methyltransferase domain
+Helicase_C_2,-0.02755436,0.003444348,0.033269401,Helicase C-terminal domain
+Transketolase_N,-0.02752357,0.003480712,0.033592511,"Transketolase, thiamine diphosphate binding domain"
+DUF3363,-0.027498606,0.003510451,0.033851199,Protein of unknown function (DUF3363)
+TelA,-0.027466453,0.003549097,0.034195264,Toxic anion resistance protein (TelA)
+DNA_pol3_beta_2,-0.027432974,0.003589745,0.034558041,"DNA polymerase III beta subunit, central domain"
+CoA_transf_3,-0.02742787,0.003595979,0.034589184,CoA-transferase family III
+Phytase-like,-0.027420063,0.003605534,0.034652187,Esterase-like activity of phytase
+AgI_II_C2,-0.027416189,0.003610284,0.03466895,Cell surface antigen I/II C2 terminal domain
+HTH_41,-0.027406947,0.003621638,0.034749047,Helix-turn-helix domain
+Dam,-0.027403337,0.003626083,0.034762768,DNA N-6-adenine-methyltransferase (Dam)
+SSB_1,-0.027372097,0.003664747,0.035085894,Another single-strand binding protein family
+Collar,-0.027369391,0.003668114,0.035085894,Phage Tail Collar Domain
+Exo_endo_phos,-0.027368748,0.003668914,0.035085894,Endonuclease/Exonuclease/phosphatase family
+ACOX_C_alpha1,-0.027354435,0.003686771,0.035227452,"Acyl-CoA oxidase, C-alpha1 domain"
+HicB_lk_antitox,-0.027351605,0.003690312,0.035232089,HicB_like antitoxin of bacterial toxin-antitoxin system
+MatE,-0.027344449,0.003699277,0.035287648,MatE
+A24_N_bact,-0.02734208,0.00370225,0.035287648,Bacterial Peptidase A24 N-terminal domain
+MlaD,-0.027335319,0.003710746,0.035339413,MlaD protein
+ABC2_membrane_4,-0.027329579,0.003717972,0.035379019,ABC-2 family transporter protein
+Lipase_GDSL_2,-0.027318385,0.003732101,0.03546217,GDSL-like Lipase/Acylhydrolase family
+E1_dh,-0.027317785,0.00373286,0.03546217,Dehydrogenase E1 component
+FlhC,-0.027310186,0.00374248,0.035524299,Flagellar transcriptional activator (FlhC)
+RecT,-0.027289937,0.003768228,0.035739291,RecT family
+Lipase_GDSL,-0.027243241,0.003828219,0.036278431,GDSL-like Lipase/Acylhydrolase
+PGM_PMM_II,-0.027217285,0.003861939,0.036552115,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II"
+RNase_H,-0.027215219,0.003864633,0.036552115,RNase H
+YdaS_toxin,-0.027213457,0.003866935,0.036552115,Bacterial toxin YdaS
+TRI12,-0.027211281,0.003869777,0.036552115,Fungal trichothecene efflux pump (TRI12)
+PAS_10,-0.027207675,0.003874491,0.036566701,PAS domain
+AraC_binding_2,-0.0271793,0.003911772,0.03688836,AraC-binding-like domain
+Whirly,-0.027168322,0.003926282,0.036994943,Whirly transcription factor
+Biotin_carb_N,-0.027164418,0.003931455,0.037013445,"Biotin carboxylase, N-terminal domain"
+Pribosyltran,-0.027158136,0.00393979,0.037035402,Phosphoribosyl transferase domain
+HEPN,-0.02715782,0.00394021,0.037035402,HEPN domain
+VWA_CoxE,-0.027123563,0.003985951,0.037434834,VWA domain containing CoxE-like protein
+FeoB_N,-0.027112575,0.004000725,0.037543015,Ferrous iron transport protein B
+TAT_signal,-0.027102416,0.004014429,0.037640987,TAT (twin-arginine translocation) pathway signal sequence
+GDPD,-0.027083327,0.004040292,0.037829511,Glycerophosphoryl diester phosphodiesterase family
+Biotin_carb_C,-0.027082736,0.004041096,0.037829511,Biotin carboxylase C-terminal domain
+Condensation,-0.027068025,0.004061135,0.037973596,Condensation domain
+EIIC-GAT,-0.027066606,0.004063073,0.037973596,PTS system sugar-specific permease component
+HWE_HK,-0.027049391,0.004086648,0.038158919,HWE histidine kinase
+PGM_PMM_III,-0.0270473,0.004089519,0.038158919,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III"
+HNH_5,-0.027030448,0.004112731,0.038344487,HNH endonuclease
+Ank_3,-0.027020197,0.00412691,0.038445601,Ankyrin repeat
+DNA_pol3_beta,-0.027016133,0.004132543,0.038467009,"DNA polymerase III beta subunit, N-terminal domain"
+CoiA,-0.027011816,0.004138535,0.038491714,Competence protein CoiA-like family
+Cupredoxin_1,-0.02695903,0.004212437,0.039147492,Cupredoxin-like domain
+3HCDH,-0.026953803,0.00421982,0.039184532,"-hydroxyacyl-CoA dehydrogenase, C-terminal domain"
+DUF5406,-0.026947409,0.004228867,0.039236946,Family of unknown function (DUF5406)
+TehB,-0.026906483,0.004287192,0.039746132,Tellurite resistance protein TehB
+Thymidylate_kin,-0.026904044,0.004290691,0.039746613,Thymidylate kinase
+CRISPR_assoc,-0.026861644,0.004351929,0.040281536,CRISPR associated protein
+SBF,-0.026842982,0.004379134,0.040500844,Sodium Bile acid symporter family
+CO_deh_flav_C,-0.026813568,0.004422325,0.040867524,CO dehydrogenase flavoprotein C-terminal domain
+ATG16,-0.026783354,0.00446709,0.041248161,Autophagy protein 16 (ATG16)
+Ser_hydrolase,-0.026764015,0.00449596,0.041464747,Serine hydrolase
+DnaB,0.026762828,0.004497737,0.041464747,DnaB-like helicase N terminal domain
+ABC2_membrane_2,-0.026749023,0.004518455,0.041622475,ABC-2 family transporter protein
+Methyltransf_9,-0.02673022,0.004546815,0.041850289,Protein of unknown function (DUF1698)
+DNA_pol3_beta_3,-0.026719813,0.004562579,0.041936635,"DNA polymerase III beta subunit, C-terminal domain"
+TetR_C_29,-0.026719227,0.004563468,0.041936635,"Tetracyclin repressor-like, C-terminal domain"
+Baseplate_J,-0.02665863,0.004656266,0.042728133,Baseplate J-like protein
+DsbD_N,-0.026658151,0.004657007,0.042728133,"Thiol:disulfide interchange protein DsbD, N-terminal"
+Colicin_Ia,-0.026636727,0.004690228,0.042998725,Colicin Ia
+LysM,-0.026612311,0.004728349,0.043297078,LysM domain
+HisKA_2,-0.026611079,0.00473028,0.043297078,Histidine kinase
+AstE_AspA_cat,-0.026597506,0.004751599,0.043425445,Succinylglutamate desuccinylase/Aspartoacylase catalytic domain
+GvpD_P-loop,-0.026597357,0.004751835,0.043425445,"GvpD gas vesicle protein, P-loop domain"
+MmgE_PrpD_N,-0.026588581,0.004765667,0.043517369,MmgE/PrpD N-terminal domain
+TarH,-0.026586048,0.004769666,0.043519425,Tar ligand binding domain homologue
+DUF4423,-0.026583199,0.004774167,0.043526066,Domain of unknown function (DUF4423)
+Fer2_BFD,-0.02654621,0.004832964,0.044027309,BFD-like [2Fe-2S] binding domain
+Gram_pos_anchor,-0.026506166,0.004897354,0.044578676,LPXTG cell wall anchor motif
+SrpI-like,-0.026478404,0.00494245,0.044953687,Type 2A encapsulin shell protein SrpI-like
+Big-like,-0.026467255,0.004960665,0.045055078,Bacterial Ig-like domain
+DUF1419,-0.026466799,0.004961411,0.045055078,Protein of unknown function (DUF1419)
+Glu_synthase,-0.026457489,0.004976671,0.045158104,Conserved region in glutamate synthase
+Formyl_trans_N,-0.026451651,0.004986261,0.04520955,Formyl transferase
+CaiF_GrlA,-0.026447772,0.004992643,0.045231855,CaiF/GrlA transcriptional regulator
+MmeI_Mtase,-0.02643664,0.005010997,0.045362503,"MmeI, DNA-methyltransferase domain"
+Glyoxalase_3,-0.026379355,0.005106416,0.046190038,Glyoxalase-like domain
+Xan_ur_permease,-0.026317011,0.005212126,0.047109287,Permease family
+EptA_B_N,-0.026305416,0.005232003,0.047251912,Phosphoethanolamine transferase EptA/EptB
+Spore_permease,-0.026301514,0.005238708,0.047275443,Spore germination protein
+CbbQ_C,-0.026291157,0.00525654,0.047399281,CbbQ/NirQ/NorQ C-terminal
+Zn_ribbon_DnaG,-0.0262542,0.005320624,0.047939651,CHC2 zinc finger
+DUF6864,0.026247397,0.005332496,0.048009111,Domain of unknown function (DUF6864)
+T5orf172,-0.026210903,0.005396596,0.048548318,T5orf172 domain
+T2SSC,-0.026193132,0.00542806,0.04879331,Type II secretion system protein C
+DUF7740,-0.026150614,0.005504015,0.049437546,Domain of unknown function (DUF7740)
+PAS_7,-0.02614701,0.005510498,0.049457256,PAS fold
+FeeM,-0.026134834,0.005532447,0.049615641,N-acyl amino acid synthase FeeM
+EFG_III,-0.026132402,0.005536842,0.049616468,"Elongation Factor G, domain III"
+zf-ChsH2,0.02611605,0.005566466,0.049843206,"ChsH2, rubredoxin-like zinc ribbon domain"
